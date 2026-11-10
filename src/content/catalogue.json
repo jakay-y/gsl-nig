@@ -1,0 +1,2923 @@
+{
+ "syncedFrom": "https://www.gsl-nig.com",
+ "categories": [
+  {
+   "slug": "entrance-doors",
+   "name": "Entrance doors",
+   "count": 42
+  },
+  {
+   "slug": "high-security-doors",
+   "name": "High security doors",
+   "count": 6
+  },
+  {
+   "slug": "fire-doors",
+   "name": "Fire doors",
+   "count": 9
+  },
+  {
+   "slug": "interior-doors",
+   "name": "Interior doors",
+   "count": 4
+  },
+  {
+   "slug": "commercial-doors",
+   "name": "Commercial doors",
+   "count": 9
+  },
+  {
+   "slug": "smart-locks",
+   "name": "Smart locks and door bells",
+   "count": 5
+  },
+  {
+   "slug": "door-awnings-canopies",
+   "name": "Awnings and canopies",
+   "count": 17
+  },
+  {
+   "slug": "accessories",
+   "name": "Accessories",
+   "count": 15
+  }
+ ],
+ "products": [
+  {
+   "slug": "rb-smart-lock-lockapp",
+   "name": "RB SMART LOCK – LOCKAPP",
+   "category": "accessories",
+   "image": "/products/rb-smart-lock-lockapp.png",
+   "w": 615,
+   "h": 449,
+   "summary": "RB SMART LOCK – Progress to a smarter opening The newest in locking systems, innovative, yet simple to use. Operated through a secured application on your smart phone. NO KEY REQUIRED!",
+   "specs": [
+    {
+     "label": "",
+     "text": "The LOCKAPP system is operated by an application compatible to APPLE and ANDROID devices, in different languages."
+    },
+    {
+     "label": "",
+     "text": "The system’s technology is of the highest standards, and is integrated into RB-Lock’s LOCXIS Cylinder."
+    },
+    {
+     "label": "",
+     "text": "With the cylinder installed in the entrance door, RB-LOCKS LOCKAPP application on your smartphone controls locking and unlocking of the door."
+    },
+    {
+     "label": "",
+     "text": "Provides high-level security."
+    },
+    {
+     "label": "",
+     "text": "Bluetooth"
+    },
+    {
+     "label": "",
+     "text": "433 MHz"
+    },
+    {
+     "label": "",
+     "text": "PATENTED"
+    },
+    {
+     "label": "Contents include",
+     "text": "1. Motorized cylinder operated by LOCKAPP application 2. Charging cable 3. Installation instructions for LOCKAPP application"
+    },
+    {
+     "label": "Upgrade/add further convenient components",
+     "text": "Wireless Biometric Key │ Wireless Keyboard │ Remote Control for Opening and Locking │ Master Remote Control for controlling up to 8 different systems │ Wireless Adapter for Smart Home and Central Phone Systems │ Extended Stylish Handle with Biometric Key │ Extended Stylish Handle with Wireless Coder │"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/אנגלית-לוקאפ.png"
+  },
+  {
+   "slug": "interior-door-handle-nice-model-3",
+   "name": "Interior Door Handle – NICE Model",
+   "category": "accessories",
+   "image": "/products/interior-door-handle-nice-model-3.jpg",
+   "w": 1024,
+   "h": 640,
+   "summary": "A stylish modern interior door handle design – Satin chrome finish.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Available in glossy chrome, black or titanium finish."
+    },
+    {
+     "label": "",
+     "text": "Can be ordered with a bathroom thumbturn lock, a keyhole escutcheon cover or a mortise lock."
+    },
+    {
+     "label": "Maintenance suggestions",
+     "text": "Do not use cleaning products such as bleach, detergents, or assorted oil and grease removers. Clean the surface using only a slightly damp cloth."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/ניס-9206-מוברש-1024x640.jpg"
+  },
+  {
+   "slug": "interior-door-handle-nice-model-2",
+   "name": "Interior Door Handle – NICE Model",
+   "category": "accessories",
+   "image": "/products/interior-door-handle-nice-model-2.jpg",
+   "w": 1024,
+   "h": 640,
+   "summary": "A stylish modern interior door handle design – Black finish.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Available in glossy chrome, black or titanium finish."
+    },
+    {
+     "label": "",
+     "text": "Can be ordered with a bathroom thumbturn lock, a keyhole escutcheon cover or a mortise lock."
+    },
+    {
+     "label": "Maintenance suggestions",
+     "text": "Do not use cleaning products such as bleach, detergents, or assorted oil and grease removers. Clean the surface using only a slightly damp cloth."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/ניס-9206-שחור-1024x640.jpg"
+  },
+  {
+   "slug": "interior-door-handle-nice-model",
+   "name": "Interior Door Handle – NICE Model",
+   "category": "accessories",
+   "image": "/products/interior-door-handle-nice-model.jpg",
+   "w": 1024,
+   "h": 640,
+   "summary": "A stylish modern interior door handle design – Glossy finish.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Available in glossy chrome, black or titanium finish."
+    },
+    {
+     "label": "",
+     "text": "Can be ordered with a bathroom thumbturn lock, a keyhole escutcheon cover or a mortise lock."
+    },
+    {
+     "label": "Maintenance suggestions",
+     "text": "Do not use cleaning products such as bleach, detergents, or assorted oil and grease removers. Clean the surface using only a slightly damp cloth."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/ניס-9206-כרום-מבריק-1024x640.jpg"
+  },
+  {
+   "slug": "interior-door-handle-bordeaux-model-2",
+   "name": "Interior Door Handle – BORDEAUX Model",
+   "category": "accessories",
+   "image": "/products/interior-door-handle-bordeaux-model-2.jpg",
+   "w": 1024,
+   "h": 640,
+   "summary": "A stylish modern interior door handle design – Titanium finish.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Available in satin chrome, black or titanium finish."
+    },
+    {
+     "label": "",
+     "text": "Can be ordered with a bathroom thumbturn lock, a keyhole escutcheon cover or a mortise lock."
+    },
+    {
+     "label": "Maintenance suggestions",
+     "text": "Do not use cleaning products such as bleach, detergents, or assorted oil and grease removers. Clean the surface using only a slightly damp cloth."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/בורדו-4204-טיטניום-1024x640.jpg"
+  },
+  {
+   "slug": "interior-door-handle-bordeaux-model",
+   "name": "Interior Door Handle – BORDEAUX Model",
+   "category": "accessories",
+   "image": "/products/interior-door-handle-bordeaux-model.jpg",
+   "w": 1024,
+   "h": 640,
+   "summary": "A stylish modern interior door handle design – Black finish.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Available in satin chrome, black or titanium finish."
+    },
+    {
+     "label": "",
+     "text": "Can be ordered with a bathroom thumbturn lock, a keyhole escutcheon cover or a mortise lock."
+    },
+    {
+     "label": "Maintenance suggestions",
+     "text": "Do not use cleaning products such as bleach, detergents, or assorted oil and grease removers. Clean the surface using only a slightly damp cloth."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/בורדו-4204-שחור-1024x640.jpg"
+  },
+  {
+   "slug": "fire-door-handles",
+   "name": "Fire Door Handles",
+   "category": "accessories",
+   "image": "/products/fire-door-handles.png",
+   "w": 400,
+   "h": 600,
+   "summary": "Suitable for RB-Door Fire Doors",
+   "specs": [
+    {
+     "label": "Reversible handles",
+     "text": "left and right"
+    },
+    {
+     "label": "Options",
+     "text": "Fixed or Moveable."
+    },
+    {
+     "label": "Finishes available",
+     "text": "Black/Stainless Steel"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-נירוסטה-דלת-אש.png"
+  },
+  {
+   "slug": "decorative-moveable-handle-sapphire",
+   "name": "Decorative Moveable Handle SAPPHIRE",
+   "category": "accessories",
+   "image": "/products/decorative-moveable-handle-sapphire.png",
+   "w": 400,
+   "h": 600,
+   "summary": "Square shaped decorative rosettes for handles and cylinders.",
+   "specs": [
+    {
+     "label": "",
+     "text": "The Sapphire hardware is suitable for entry doors with 507, or 606 RB multi-point locks."
+    },
+    {
+     "label": "",
+     "text": "Finish – Nickel Brushed Hardened rotating disk and cylinder protector fitted to Euro profile cylinders."
+    },
+    {
+     "label": "Two types of handles",
+     "text": "lever style symmetrical handle and square shaped handle are both suitable for right or left doors."
+    },
+    {
+     "label": "",
+     "text": "The square handle can be used both as a moving and as a fixed handle."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-ספיר-נעה.png"
+  },
+  {
+   "slug": "decorative-moveable-handle-coral-fixed",
+   "name": "DECORATIVE MOVEABLE HANDLE CORAL FIXED",
+   "category": "accessories",
+   "image": "/products/decorative-moveable-handle-coral-fixed.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The “Coral” hardware is suitable for entry doors with 507 and 606 multi-point locks.",
+   "specs": [
+    {
+     "label": "",
+     "text": "new design of a round fixed handle"
+    },
+    {
+     "label": "",
+     "text": "suitable for left and right doors"
+    },
+    {
+     "label": "",
+     "text": "Rosette and Handles Finish – Nickel Brushed"
+    },
+    {
+     "label": "",
+     "text": "The “Coral” hardware has a hardened cylinder protector"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-כדור.png"
+  },
+  {
+   "slug": "decorative-fixed-handle-idan",
+   "name": "Decorative Fixed-Handle IDAN",
+   "category": "accessories",
+   "image": "/products/decorative-fixed-handle-idan.png",
+   "w": 400,
+   "h": 600,
+   "summary": "RB-DOORS and RB Locking Technologies offer a wide range of decorative Fixed-Handles for Entry Doors",
+   "specs": [
+    {
+     "label": "Size",
+     "text": "100 mm or 160 mm long"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-עידן.png"
+  },
+  {
+   "slug": "decorative-fixed-handle-shira",
+   "name": "Decorative Fixed-Handle SHIRA",
+   "category": "accessories",
+   "image": "/products/decorative-fixed-handle-shira.png",
+   "w": 400,
+   "h": 600,
+   "summary": "RB-DOORS and RB Locking Technologies offer a wide range of decorative Fixed-Handles for Entry Doors",
+   "specs": [
+    {
+     "label": "Size",
+     "text": "900 mm long"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-שירה.png"
+  },
+  {
+   "slug": "decorative-fixed-handle-rona",
+   "name": "Decorative Fixed-Handle RONA",
+   "category": "accessories",
+   "image": "/products/decorative-fixed-handle-rona.png",
+   "w": 400,
+   "h": 600,
+   "summary": "RB-DOORS and RB Locking Technologies offer a wide range of decorative Fixed-Handles for Entry Doors",
+   "specs": [
+    {
+     "label": "Size",
+     "text": "800 mm long"
+    },
+    {
+     "label": "Color",
+     "text": "nickel"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-רונה.png"
+  },
+  {
+   "slug": "decorative-fixed-handle-ron",
+   "name": "Decorative Fixed-Handle RON",
+   "category": "accessories",
+   "image": "/products/decorative-fixed-handle-ron.png",
+   "w": 400,
+   "h": 600,
+   "summary": "RB-DOORS and RB Locking Technologies offer a wide range of decorative Fixed-Handles for Entry Doors",
+   "specs": [
+    {
+     "label": "Size",
+     "text": "400 mm long or 800 mm long"
+    },
+    {
+     "label": "Color",
+     "text": "Different colors available"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-רון.png"
+  },
+  {
+   "slug": "decorative-fixed-handle-sivan",
+   "name": "Decorative Fixed-Handle SIVAN",
+   "category": "accessories",
+   "image": "/products/decorative-fixed-handle-sivan.png",
+   "w": 400,
+   "h": 600,
+   "summary": "RB-DOORS and RB Locking Technologies offer a wide range of decorative Fixed-Handles for Entry Doors Technical specification",
+   "specs": [
+    {
+     "label": "Size",
+     "text": "400 mm long or 800 mm long"
+    },
+    {
+     "label": "Color",
+     "text": "Glossy/Matte"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-סיון.png"
+  },
+  {
+   "slug": "decorative-fixed-handle-shachar",
+   "name": "Decorative Fixed-Handle SHACHAR",
+   "category": "accessories",
+   "image": "/products/decorative-fixed-handle-shachar.png",
+   "w": 400,
+   "h": 600,
+   "summary": "RB-Doors and RB Locking Technologies offer a wide range of decorative Fixed-Handles for Entry Doors",
+   "specs": [
+    {
+     "label": "Size",
+     "text": "400 mm long or 800 mm long"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/מוצר_ידית-שחר.png"
+  },
+  {
+   "slug": "steel-storeroom-industrial-doors",
+   "name": "STEEL STOREROOM & INDUSTRIAL DOORS",
+   "category": "commercial-doors",
+   "image": "/products/steel-storeroom-industrial-doors.png",
+   "w": 279,
+   "h": 417,
+   "summary": "Models 451 l 452 l 455 l 466 Steel door made of 1.25/0.8 mm galvanized steel casings, with or without a surrounding rubber seal on edges and Telescopic bottom insert for easy door height adjustment. Suitable for storerooms, ventilation rooms, electric rooms and general facilities.",
+   "specs": [
+    {
+     "label": "DOOR LEAF DIMENSIONS MODELS 451 & 452",
+     "text": "Width: from 880 to 1100 mm in increments of 20 mm Height: ranging from 1820 mm and up to 2400 mm (not including insert height)"
+    },
+    {
+     "label": "DOOR LEAF DIMENSIONS MODELS 455 & 456",
+     "text": "Width: from 300 to 860 mm in increments of 20 mm height: ranging from 1820 mm and up to 2400 mm (not including insert height)"
+    },
+    {
+     "label": "DOOR FRAME",
+     "text": "Maximum Height: 3000 mm Construction Frame models: 800, 801"
+    },
+    {
+     "label": "OPENING DIRECTIONS",
+     "text": "Right/left Outwards/inwards opening"
+    },
+    {
+     "label": "WINDOW OPTIONS",
+     "text": "Smoke Shutter Window (upper/lower/entire door/upper and lower) Vent slats (louver) (upper/lower/ entire door/upper and lower)"
+    },
+    {
+     "label": "LEAF INSERT",
+     "text": "Standard height: 105 mm, 130 mm height by special order"
+    },
+    {
+     "label": "FINISHES",
+     "text": "Textured or granular Electrostatic Paint Finish, available in various shades from the RB-DOOR color catalogue or PVC Finish Galvanized"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/steel-storeroom-industrial.png"
+  },
+  {
+   "slug": "sundoor-model-tuscany",
+   "name": "SUNDOOR MODEL TUSCANY",
+   "category": "commercial-doors",
+   "image": "/products/sundoor-model-tuscany.jpg",
+   "w": 768,
+   "h": 1613,
+   "summary": "Hollow Metal Doors – Sundoor Model Tuscany",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral aluminum framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "magnetic latch lock with W/C or cylinder locking"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "aluminum horizontal striping"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width 700/800/900 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height 2000 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/Sundoor-Model-Tuscany-768x1613.jpg"
+  },
+  {
+   "slug": "new-sundoor-model-piza",
+   "name": "NEW SUNDOOR MODEL PIZA",
+   "category": "commercial-doors",
+   "image": "/products/new-sundoor-model-piza.jpg",
+   "w": 768,
+   "h": 1613,
+   "summary": "Hollow Metal Doors – Sundoor Model Piza",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral aluminum framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "magnetic latch lock with W/C or cylinder locking"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "horizontal striping"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width 700/800/900 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height 2000 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/Sundoor-Model-Tuscany-768x1613.jpg"
+  },
+  {
+   "slug": "sundoor-model-torino",
+   "name": "SUNDOOR MODEL TORINO",
+   "category": "commercial-doors",
+   "image": "/products/sundoor-model-torino.jpg",
+   "w": 768,
+   "h": 1396,
+   "summary": "Hollow Metal Doors – Sundoor Model Torino",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral aluminum framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "magnetic latch lock with W/C or cylinder locking"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "horizontal striping"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width 700/800/900 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height 2000 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/1807-copy-768x1396.jpg"
+  },
+  {
+   "slug": "sundoor-model-04",
+   "name": "SUNDOOR MODEL 04",
+   "category": "commercial-doors",
+   "image": "/products/sundoor-model-04.jpg",
+   "w": 768,
+   "h": 1154,
+   "summary": "Hollow Metal Doors – Sundoor Model 04",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral wood framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "101 type lock"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "6 panels"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width for models A,B,C 632/710/810/861/910 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height – 2007 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/B-model-6-panel-moran-4317-768x1154.jpg"
+  },
+  {
+   "slug": "sundoor-model-c",
+   "name": "SUNDOOR MODEL C",
+   "category": "commercial-doors",
+   "image": "/products/sundoor-model-c.jpg",
+   "w": 768,
+   "h": 1154,
+   "summary": "Hollow Metal Doors – Sundoor Model C",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral wood framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "101 type lock"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "3 panels"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width for models A,B,C 632/710/810/861/910 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height for models A,B,C – 2007 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/C-model-arava-4309-768x1154.jpg"
+  },
+  {
+   "slug": "sundoor-model-b",
+   "name": "SUNDOOR MODEL B",
+   "category": "commercial-doors",
+   "image": "/products/sundoor-model-b.jpg",
+   "w": 768,
+   "h": 1154,
+   "summary": "Hollow Metal Doors – Sundoor Model B",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral wood framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "101 type lock"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "6 panels"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width for models A,B,C 632/710/810/861/910 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height for models A,B,C – 2007 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/Sundoor-Model-B-768x1154.jpg"
+  },
+  {
+   "slug": "sundoor-model-a",
+   "name": "SUNDOOR MODEL A",
+   "category": "commercial-doors",
+   "image": "/products/sundoor-model-a.png",
+   "w": 188,
+   "h": 417,
+   "summary": "Hollow Metal Doors – Sundoor Model A",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "Coated steel door with peripheral wood framing polyurethane injected filling and aluminum bottom edge for protection against water damage"
+    },
+    {
+     "label": "Hinges",
+     "text": "Heavy duty hinges"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "101 type lock"
+    },
+    {
+     "label": "Door Hardware",
+     "text": "Nickel finish"
+    },
+    {
+     "label": "Door Finish",
+     "text": "Top quality laminated finish in a variety of shades or pre-painted finish"
+    },
+    {
+     "label": "Door Design",
+     "text": "6 panels"
+    },
+    {
+     "label": "Width Measurements",
+     "text": "Standard single door width for models A,B,C 632/710/810/861/910 mm"
+    },
+    {
+     "label": "Height Measurements",
+     "text": "Standard single door height for models A,B,C – 2007 mm"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/Sundoor-Model-A.png"
+  },
+  {
+   "slug": "model-452",
+   "name": "MODEL 452",
+   "category": "commercial-doors",
+   "image": "/products/model-452.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades"
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/08/model-452.png"
+  },
+  {
+   "slug": "ultraloq-u-bolt",
+   "name": "Ultraloq U-Bolt",
+   "category": "smart-locks",
+   "image": "/products/ultraloq-u-bolt.jpg",
+   "w": 1024,
+   "h": 1024,
+   "summary": "GENERAL DESCRIPTION Ultraloq U-Bolt is a secure and affordable smart deadbolt that offers keyless entry via your Bluetooth enabled smartphone and code. You can share temporary codes and Ekeys to your friends and guests for scheduled access. The Bridge upgrade allows you to control the access to your door while you’re away from your home and monitor ‘ll activity remotely. Technical specification Share Ekey: Grant access for specific dates or times. Keyless Entry: Ultraloq App enables you to unlock your door with your smartphone. Manage Users: Knows who has the access to your lock and how. Add or delete users any time you want. Log Record: You can see a Log of who’s entered and exactly when they did from your smartphone. Go Remote Instantly with Bridge: Control entry access to your door from anywhere, for anyone with the optional Bridge. You can unlock your Ultraloq or grant access to guests and visitors via an eKey for specific dates or periods of time remotely with no monthly charges. You will receive a smartphone notification when someone opens your door.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/07/61EGYjzgs4L._SL1500_3-1024x1024.jpg"
+  },
+  {
+   "slug": "ultraloq-ul300",
+   "name": "Ultraloq UL300",
+   "category": "smart-locks",
+   "image": "/products/ultraloq-ul300.png",
+   "w": 768,
+   "h": 1060,
+   "summary": "GENERAL DESCRIPTION Ultraloq UL300 is a revolutionary smart lock that offers entry via biometric fingerprint identification, contactless key fob, code or your Bluetooth enabled smartphone. With multiple locking mechanisms and 6 ways to unlock, it brings security and simplicity together. The Bridge upgrade allows you to share a temporary eKey or code with guests while you’re away from your home and monitor all activity via the iOS or Android app. Technical specification Share Ekey: Grant access for specific dates or times. Keyless Entry: Ultraloq App enables you to unlock your door with your smartphone. Manage Users: Knows who has the access to your lock and how. Add or delete users any time you want. Log Record: You can see a Log of who’s entered and exactly when they did from your smartphone. Go Remote Instantly with Bridge: Control entry access to your door from anywhere, for anyone with the optional Bridge. You can unlock your Ultraloq or grant access to guests and visitors via an eKey for specific dates or periods of time remotely with no monthly charges. You will receive a smartphone notification when someone opens your door.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/07/ul300-02-768x1060.png"
+  },
+  {
+   "slug": "ultraloq-ul3-bt",
+   "name": "Ultraloq UL3 BT",
+   "category": "smart-locks",
+   "image": "/products/ultraloq-ul3-bt.png",
+   "w": 600,
+   "h": 600,
+   "summary": "GENERAL DESCRIPTION Ultraloq UL3 BT smart lever lock is designed to be “Real Keyless”. You are free to use fingerprint, code, key or smartphone to unlock. You can just knock on your phone to open the door, even when it’s in your pocket. Technical specification Two-Point Locking: It features two-point locking – one on the deadbolt and one on the handle, That keeps your home twice as secure. One Touch Unlocking: The fingerprint sensor is thoughtfully positioned to accompany your natural hand positions. With our patented technology one seamless action allows you to wake the sensor, read your fingerprint and unlock two locks. It works in the same way if you use smartphone or key fob to unlock. Single Motion Exit: Automatically unlocks when the interior lever is turned down. This feature can also be disabled if you have a big dog. Quick Tap Entry: For those who don’t want to use smartphone or fingerprint, UL1 can be unlocked with a contactless key fob. Once you present the key fob in the vicinity of handle, the door will instantly unlock. Ideal for kids and the elderly. Share Ekey: Grant access for specific dates or times. Keyless Entry: Ultraloq App enables you to unlock your door with your smartphone. Manage Users: Knows who has the access to your lock and how. Add or delete users any time you want. Log Record: You can see a Log of who’s entered and exactly when they did from your smartphone.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/07/product_ul3_01_240f22a1-a45c-40f4-b9c3-54e110f8e71a_grande_3.png"
+  },
+  {
+   "slug": "ul1-bluetooth-enabled-fingerprint-and-key-fob-smart-lock",
+   "name": "Ultraloq UL1 3-in-1 Smart Lever Lock",
+   "category": "smart-locks",
+   "image": "/products/ul1-bluetooth-enabled-fingerprint-and-key-fob-smart-lock.png",
+   "w": 1024,
+   "h": 1024,
+   "summary": "GENERAL DESCRIPTION Ultraloq UL1 is a revolutionary smart lock that offers entry via biometric fingerprint identification, contactless key fob, or your Bluetooth enabled smartphone. The Bridge upgrade allows you to share an eKey with guests while you’re away from your home and monitor all activity via the iOS or Android app. Technical specification Bluetooth Smart Connectivity: Your smartphone is now your key. Just unlock your door using the Ultraloq App on your smartphone. One Touch Fingerprint Access:Just need “One Touch” to wakeup the sensor, unlock and turn the handle in no time. Contactless Key Fob: 13.56MHz frequency Smart Technology. Perfect for people like kids and elderly who don’t use a smartphone. Dual Battery System: Powered by 2 sets of 2 AA batteries separately. You can just replace 2 batteries form exterior handle in case battery runs out. DIY Installation: No wiring required. No drilling for American standard doors. Just 5 screws. Weather Resistant: Durable Zinc alloy casing. Built for both exterior and interior doors. Three Locking Status: Auto relock, privacy lockout and free passage. Tri-color LED Indicator: Shows you authorised or denied access, Bluetooth connectivity status, battery and locking status. Use Your Unique Fingerprint: The fingerprint sensor is thoughtfully positioned to accompany your natural hand positions. With our patented technology one seamless action allows you to wake the sensor, read your fingerprint and unlock your Ultraloq. Quick Tap Entry: For those who don’t want to use smartphone or fingerprint, UL1 can be unlocked with a contactless key fob. Once you present the key fob in the vicinity of handle, the door will instantly unlock. Ideal for kids and the elderly.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/07/1-1024x1024.png"
+  },
+  {
+   "slug": "ultraloq-combo-two-point-smart-lock",
+   "name": "Ultraloq Combo Two-Point Smart Lock",
+   "category": "smart-locks",
+   "image": "/products/ultraloq-combo-two-point-smart-lock.png",
+   "w": 800,
+   "h": 800,
+   "summary": "GENERAL DESCRIPTION Ultraloq Combo is a revolutionary smart lock that offers entry via biometric fingerprint identification, contactless key fob, or your Bluetooth enabled smartphone. With 2-Point locking and One-Touch-Unlocking feature, it brings security and simplicity together. The Bridge upgrade allows you to share an eKey with guests while you’re away from your home and monitor all activity via the iOS or Android app. Technical specification Two-Point Locking: It features two-point locking – one on the deadbolt and one on the handle, That keeps your home twice as secure. One Touch Unlocking: The fingerprint sensor is thoughtfully positioned to accompany your natural hand positions. With our patented technology one seamless action allows you to wake the sensor, read your fingerprint and unlock two locks. It works in the same way if you use smartphone or key fob to unlock. Single Motion Exit: Automatically unlocks when the interior lever is turned down. This feature can also be disabled if you have a big dog. Quick Tap Entry: For those who don’t want to use smartphone or fingerprint, UL1 can be unlocked with a contactless key fob. Once you present the key fob in the vicinity of handle, the door will instantly unlock. Ideal for kids and the elderly. Share Ekey: Grant access for specific dates or times. Keyless Entry: Ultraloq App enables you to unlock your door with your smartphone. Manage Users: Knows who has the access to your lock and how. Add or delete users any time you want. Log Record: You can see a Log of who’s entered and exactly when they did from your smartphone. Go Remote Instantly with Bridge: Control entry access to your door from anywhere, for anyone with the optional Bridge. You can unlock your Ultraloq or grant access to guests and visitors via an eKey for specific dates or periods of time remotely with no monthly charges. You will receive a smartphone notification when someone opens your door. Dual Battery System: To ensure that you’re never locked out because of a dead battery, the lever operates on a dual battery system as well as sends your phone warnings if the battery is low. Up to 8,000 Times Access: Thank to Bluetooth 4.0’s ultra low power consumption technology, Ultraloq can be powered by four AA batteries with more than one year of battery life through regular use. Match Your Home Aesthetic: Ultraloq Combo is thoughtfully crafted with style and functionality in mind. The handle looks clean and compact on any door with smooth surfaces, curved edges, and narrow size. While the main function of Combo is safety, we wanted to create a lock that brings usability, simplicity and elegance together. DIY Installation: Ultraloq Combo is designed to fit any US standard door. The simple installation takes minutes and only few screws. No wiring and no drilling. The lever is reversible for both left handed and right handed doors.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/WechatIMG91529659731_.pic_2.png"
+  },
+  {
+   "slug": "d-series",
+   "name": "D SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/d-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of the D Series is made of leesun board, sunsheet board, aluminum composite and enhanced resin board. While the bracket material is made of engineering plastic DIMENSIONS D 1200- Depth 900mm Width 1200mm D1400- Depth 900mm width 1400mm D1500- Depth 900mm Width 1500mm BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue, silver,milky green or customized BRACKET COLOUR Black,white,grey,brown, or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/DV-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "dv-series",
+   "name": "DV SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/dv-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of the DV Series is made of leesun board, sunsheet board, aluminum composite and enhanced resin board. While the bracket material is made of engineering plastic DIMENSIONS DV1200- Depth 1215mm Width 1200mm DV1500- Depth 1215mm width 1500mm DV1500- Depth 1215mm Width 1800mm",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/DV-SERIES2-400x580.jpg"
+  },
+  {
+   "slug": "e-series",
+   "name": "E SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/e-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The E series board material is made of the Leesun board and the bracket material iis made of Alumiun and stainless steel . DIMENSION E1200- Depth 930mm Width 1200mm E1400- Depth 930mm Width 1400mm E1500- Depth 930mm Width 1500mm BOARD COLOUR Clear brown,tinted grey,light grey,frosted,blue or customised BRACKET COLOUR Silver,brushed SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/E-SERIES1.jpg"
+  },
+  {
+   "slug": "h-series",
+   "name": "H SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/h-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The material board of the H series is made up Leesun board,sunsheet board,Aluminum composite,Enchaned resin.Whilethe bracket material is made of Engineering plastics DIMENSIONS: H1000–depth 700mm width 1000mm H1200-depth 700mm width 1200mm H1400-depth 700mm width 1400mm BRACKET COLOUR; Black,white,grey,brown or customised clear brown,tinted grey,light grey,frosted,blue,silver,milky green or customised BRACKET COLOUR; Black,white,grey,brown or customised clear brown,tinted grey,light grey,frosted,blue,silver,milky green or customised BRACKET COLOUR; Black,white,grey,brown or customised BOARD COLOUR; clear brown,tinted grey,light grey,frosted,blue,silver,milky green or customised BRACKET COLOUR; Black,white,grey,brown or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/H-SERIES2-400x580.jpg"
+  },
+  {
+   "slug": "j-series",
+   "name": "J SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/j-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The J series board material is made of the Leesun board ,while the bracket material iis made of Alumiun and stainless steel . DIMENSION J1200- Depth 950mm Width 1200mm J1400- Depth 950mm Width 1400mm J1500- Depth 950mm Width 1500mm BOARD COLOUR Clear brown,tinted grey,light grey,frosted,blue or customised BRACKET COLOUR Silver,brushed SS ,black,white,grey or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/J-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "k-series",
+   "name": "K SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/k-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of K series is made of Leesun board only. While the bracket material is made of Aluminum and stainless steel DIMENSIONS K 1200- Depth 1000mm Width 1200mm K1400- Depth 1000mm Width 1400mm K1500- Depth 1000mm width 1500mm BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue or customized BRACKET COLOUR Silver,brushes SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/K-SERIES1.jpg"
+  },
+  {
+   "slug": "led-serial",
+   "name": "LED SERIAL",
+   "category": "door-awnings-canopies",
+   "image": "/products/led-serial.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material option for this series is the Leesun board and bracket board option is made of Aluminum Iron DIMENSIONS LED1200-Depth 100mm Width 1200mm LED1400-Depth 1000mm Width1400mm BOARD COLOUR Clear brown,tinted grey, light grey,frosted,and customised BRACKET COLOUR White,brown,silver and customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/LED-SERIAL1-400x580.jpg"
+  },
+  {
+   "slug": "m-series",
+   "name": "M SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/m-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of the M Series is made of leesun board,sunsheet board,aluminum composite and enhanced resin board. While the bracket material is made of Aluminum DIMENSIONS M 1200- Depth 900mm Width 1200mm M1400- Depth 900mm Width 1400mm M1500- Depth 900mm width 1500mm BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue, silver,milky green or customized BRACKET COLOUR Silver or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/M-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "max-series",
+   "name": "MAX SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/max-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The MAX series board material is made of the Leesun board , sunsheet board,Aluminum composite and enhanced resin board while the bracket material is made of Aluminum and stainless steel . DIMENSION MAX 1200- Depth 900/1000/1200mm Width 1200mm MAX1400- Depth 900/1000/1200mm Width 1400mm MAX 1500- Depth 900/1000/1200mm Width 1500mm BOARD COLOUR Clear brown,tinted grey,light grey,frosted,blue,milky green or customised BRACKET COLOUR Silver,black or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/MAX-SERIES1.jpg"
+  },
+  {
+   "slug": "n-series",
+   "name": "N SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/n-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material is made of Leesun board and the bracket material is made of Aluminum and stainless steel BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue or customized BRACKET COLOUR Silver,brushes SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/N-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "o-series",
+   "name": "O SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/o-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material is made of Leesun board only.While the bracket material is made of Aluminum and stainless steel BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue or customized BRACKET COLOUR Silver,brushes SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/O-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "s-series",
+   "name": "S SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/s-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of the S Series is made of leesun board, sunsheet board, aluminum composite and enhanced resin board. While the bracket material is made of engineering plastic DIMENSIONS S1200- Depth 1200mm Width 1200mm S1400- Depth 1200mm width 1400mm S1500- Depth 1200mm Width 1500mm BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue, silver,milky green or customized BRACKET COLOUR Black,white,grey,brown, or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/S-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "sky-line-series",
+   "name": "SKY LINE SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/sky-line-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The SKYLINE series board material is made of the Leesun board ,while the bracket material iis made of Aluminum and stainless steel . DIMENSION SKYLINE 1200- Depth 700mm Width 1200mm SKYLINE 1400- Depth 700mm Width 1400mm SKYLINE 1500- Depth 700mm Width 1500mm BOARD COLOUR Clear brown,tinted grey,light grey,frosted,blue or customised BRACKET COLOUR Silver,brushed SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/SKYLINE-SERIES-400x580.jpg"
+  },
+  {
+   "slug": "v-series",
+   "name": "V SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/v-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "ENERAL DESCRIPTION The board material of the V Series is made of leesun board, sunsheet board, aluminum composite and enhanced resin board. While the bracket material is made of engineering plastic DIMENSIONS V 1200- Depth 900mm Width 1200mm V1400- Depth 900mm width 1400mm V1500- Depth 900mm Width 1500mm BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue, silver,milky green or customized BRACKET COLOUR Black,white,grey,brown, or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/V-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "t-series",
+   "name": "T SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/t-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The T series board material is made of the Leesun board and the temper glass while the bracket material iis made of Alumiun and stainless steel . DIMENSION T1200- Depth 900mm Width 1200mm T1400- Depth 900mm Width 1400mm T1500- Depth 900mm Width 1500mm BOARD COLOUR Clear brown,tinted grey,light grey,frosted,blue or customised BRACKET COLOUR Silver,brushed SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/T-SERIES1.jpg"
+  },
+  {
+   "slug": "x-series",
+   "name": "X SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/x-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of the X Series is made of leesun board, sunsheet board, aluminum composite and enhanced resin board. While the bracket material is made of engineering plastic DIMENSIONS X 1200- Depth 800mm Width 1200mm X1400- Depth 800mm width 1400mm X1500- Depth 800mm Width 1500mm BOARD COLOUR Clear brown,tinted grey,light grey,frosted,blue or customised BRACKET COLOUR Silver,brushed SS or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/X-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "y-series",
+   "name": "Y SERIES",
+   "category": "door-awnings-canopies",
+   "image": "/products/y-series.jpg",
+   "w": 400,
+   "h": 580,
+   "summary": "GENERAL DESCRIPTION The board material of the Y Series is made of leesun board, sunsheet board, aluminum composite and enhanced resin board. While the bracket material is made of engineering plastic DIMENSIONS Y 1200- Depth 900mm Width 1200mm Y1400- Depth 900mm width 1400mm Y1500- Depth 900mm Width 1500mm BOARD COLOUR Clear brown, tinted grey, light grey, frosted, blue, silver,milky green or customized BRACKET COLOUR Black,white,grey,brown, or customised",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Y-SERIES1-400x580.jpg"
+  },
+  {
+   "slug": "interior-door-millennium-series",
+   "name": "Interior Door – MILLENNIUM Series",
+   "category": "interior-doors",
+   "image": "/products/interior-door-millennium-series.png",
+   "w": 300,
+   "h": 645,
+   "summary": "The Millennium interior doors series, a product of RB-DOORS®, in different wood color shades, suitable for any room and for any purpose.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Door leaf with Honey Comb filling. Locking latch 101 Coated door frame in 9.5/12/14 cm frame widths. Layered style, 5.5 cm wide plastic architraves. Surrounding rubber seal for noise reduction."
+    },
+    {
+     "label": "",
+     "text": "pipe hinges"
+    },
+    {
+     "label": "Selection of Options",
+     "text": "A selection of glazing options available for interior doors"
+    },
+    {
+     "label": "Dimensions",
+     "text": "Height: 2.05 M (Including door frame). Opening Width : 70/80/90 (Customized production can be requested for widths of 60/100 cm) *door frame widths of over 14 cm can be requested (Customized production)"
+    },
+    {
+     "label": "Finishes",
+     "text": "Pecan Walnut Cherry Oak"
+    },
+    {
+     "label": "Selection of Handles",
+     "text": "Bologna Granada Milan Monaco Napoli"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Interior-Door-MILLENNIUM-Series.png"
+  },
+  {
+   "slug": "interior-door-palazzo-series",
+   "name": "Interior Door – PALAZZO Series",
+   "category": "interior-doors",
+   "image": "/products/interior-door-palazzo-series.png",
+   "w": 300,
+   "h": 645,
+   "summary": "The popular interior door series with Laminato coating, in a variety of colors and textures. This collection caters to contemporary taste with its wide range of colors and textures marked at the right price.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Door leaf with Honey Comb/Tubular chipboard filling. Silent magnetic locking. Coated door frame in 9.5/12/14 cm frame widths. Barcelona or layered style WPC polymer architraves. Surrounding rubber seal for noise reduction."
+    },
+    {
+     "label": "",
+     "text": "pipe hinges"
+    },
+    {
+     "label": "Selection of Options",
+     "text": "A selection of glazing options available for interior doors Aluminum striping"
+    },
+    {
+     "label": "Dimensions",
+     "text": "Height: 2.05 M (Including door frame). Opening Width : 70/80/90 (Customized production can be requested for widths of 60/100 cm) *door frame widths of over 14 cm can be requested (Customized production)"
+    },
+    {
+     "label": "Finishes",
+     "text": "White Cream Bleached Oak Walnut Wenge"
+    },
+    {
+     "label": "Selection of Handles",
+     "text": "Bologna Granada Milano Monaco Napo"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Interior-Door-PALAZZO-Series.png"
+  },
+  {
+   "slug": "water-resistant-interior-doors-top-color-series",
+   "name": "Water Resistant Interior Doors – TOP COLOR Series",
+   "category": "interior-doors",
+   "image": "/products/water-resistant-interior-doors-top-color-series.png",
+   "w": 300,
+   "h": 645,
+   "summary": "RB-DOORS’ TOP Series is among the most advanced and technological interior doors available on the market. The prestigious TOP series interior doors boast a high resistance to water related damage keeping this top quality collection stylish and elegant. All doors in this series are made with a tubular chipboard filling and rubber seal for acoustic insulation, magnetic lock for silent magnetic lock and wide telescopic and adjustable architraves.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Door leaf with tubular chipboard filling and high quality formica finish. Silent magnetic locking. Laminato covered WPC door frame in 9.5/12/14 cm widths. Water resistant WPC architraves. Surrounding seal for noise reduction."
+    },
+    {
+     "label": "",
+     "text": "Heavy duty pipe hinges"
+    },
+    {
+     "label": "TOP Design",
+     "text": "Upgrade your door with designs combining windows, glazing, fluting and decorative aluminum colored striping"
+    },
+    {
+     "label": "Dimensions",
+     "text": "Height: 2.05 M (Including door frame). Available in 215 cm Opening Width : 70/80/90 (Customized production can be requested for widths of 60/100 cm) *door frame widths of over 14 cm can be requested (Customized production)"
+    },
+    {
+     "label": "Finishes",
+     "text": "White Cream Any RAL color"
+    },
+    {
+     "label": "Selection of Handles",
+     "text": "Bologna Granada Milano Monaco Napoli"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Water-Resistant-Interior-Doors-TOP-COLOR-Series.png"
+  },
+  {
+   "slug": "water-resistant-interior-doors-top-formica-series",
+   "name": "Water Resistant Interior Doors – TOP FORMICA Series",
+   "category": "interior-doors",
+   "image": "/products/water-resistant-interior-doors-top-formica-series.png",
+   "w": 300,
+   "h": 645,
+   "summary": "RB-DOORS’ TOP Series is among the most advanced and technological interior doors available on the market. The prestigious TOP series interior doors boast a high resistance to water related damage keeping this top quality collection stylish and elegant. All doors in this series are made with a tubular chipboard filling and rubber seal for acoustic insulation, magnetic lock for silent magnetic lock and wide telescopic and adjustable architraves.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Door leaf with tubular chipboard filling and high quality formica finish. Silent magnetic locking. Laminato covered WPC door frame in 9.5/12/14 cm widths. Water resistant WPC architraves. Surrounding seal for noise reduction."
+    },
+    {
+     "label": "",
+     "text": "Heavy duty pipe hinges"
+    },
+    {
+     "label": "TOP Design",
+     "text": "Upgrade your door with designs combining windows, glazing, fluting and decorative aluminum colored striping"
+    },
+    {
+     "label": "Dimensions",
+     "text": "Height: 2.05 M (Including door frame). Available in 215 cm Opening Width : 70/80/90 (Customized production can be requested for widths of 60/100 cm) *door frame widths of over 14 cm can be requested (Customized production)"
+    },
+    {
+     "label": "Finishes",
+     "text": "White Textured Formica Cream Textured Formica"
+    },
+    {
+     "label": "Selection of Handles",
+     "text": "Bologna Granada Milano Monaco Napoli"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Water-Resistant-Interior-Doors-TOP-FORMICA-Series.png"
+  },
+  {
+   "slug": "the-gladiator-system",
+   "name": "The Gladiator System",
+   "category": "high-security-doors",
+   "image": "/products/the-gladiator-system.png",
+   "w": 279,
+   "h": 417,
+   "summary": "RB-DOORS Steel Security Doors ensure your security with the most advanced locking systems available. The Gladiator Locking System is one of RB’s patent protected locking mechanisms. The Gladiator directs 3 hook-like bolts into the jamb, making it extremely difficult to tamper with the door. The hook is a unique addition to the other existing six or more locking bolts in the door.",
+   "specs": [
+    {
+     "label": "GLADIATOR LOCK AND HARDWARE",
+     "text": "The door is equipped with a unique 4-way lock (model RB507 or RB606), with four 10 mm (0.393″)/18 mm (0.709″) front bolts. The lock also activates upper and rear 13 mm (0.511″) bolts. Unique hook mechanisms, located above and below the main lock, and 2 fixed hook bolts in the hinge side attach the door leaf to the frame providing a high security structure. • The high security RB cylinder- Supplied with an advanced cylinder protector for prevention of picking and drilling, and forcing of the lock cylinder. When in the locked position, multi-angled locking is achieved. As each bolt is independent, forcing of one bolt will not affect the others, and pushing or applying pressure to a bolt head will not cause the lock system to open."
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/The-Gladiator-System.png"
+  },
+  {
+   "slug": "ballistic-resistant-steel-door",
+   "name": "Ballistic Resistant Steel Door",
+   "category": "high-security-doors",
+   "image": "/products/ballistic-resistant-steel-door.png",
+   "w": 297,
+   "h": 417,
+   "summary": "The bullet resistant door model 769 is manufactured by RB-DOORS compliant to the highest production standards. This High Security door includes an advanced locking system and provides the protection needed for advanced security , high defense level facilities.",
+   "specs": [
+    {
+     "label": "General description",
+     "text": "The door is made of two 1.25mm thick (Door weight is 120 kg – 150 kg) galvanized steel sheets, reinforced by horizontal steel bars set between the casing and the armor plate. RB’s high security 4-way locking system with additional reinforcement mechanism, 4 heavy duty hinges and telescopic bottom insert for door height adjustment."
+    },
+    {
+     "label": "Certification",
+     "text": "Ballistic resistant armor steel plate, tested according to UL 752 protection level 4-8. Ballistic resistant transparency tested according to DIN 52290 part 2, using an AK-47 rifle."
+    },
+    {
+     "label": "Hardware and Accessories",
+     "text": "RB’s High security cylinder, hardened drill resistant cylinder protector with a rotating disc and security cover plates on both sides of the locking case."
+    },
+    {
+     "label": "Frame",
+     "text": "Construction or cover frame. Bullet proof frame – optional."
+    },
+    {
+     "label": "Door Finish",
+     "text": "Electrostatic powder coating, different colors, PVC coating or 3mm thickness wooden decorative panels."
+    },
+    {
+     "label": "",
+     "text": "Bullet resistant window is optional."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Ballistic-Resistant-Steel-Door.png"
+  },
+  {
+   "slug": "rb-defense-entry-door-model-736",
+   "name": "RB Defense Entry Door – Model 736",
+   "category": "high-security-doors",
+   "image": "/products/rb-defense-entry-door-model-736.png",
+   "w": 279,
+   "h": 417,
+   "summary": "Advanced security door Model 736, equipped with a high security S.G. dial locking device. Designed for restricted access areas of institutions.",
+   "specs": [
+    {
+     "label": "Structure of door leaf",
+     "text": "2 laminated 1.25mm thick galvanized steel casings reinforced by horizontal and vertical steel longitudinal bars. The door leaf is 50mm thick. The door is equipped with an electronic control security locking device."
+    },
+    {
+     "label": "Advanced security mechanism",
+     "text": "RB 4 way locking mechanism"
+    },
+    {
+     "label": "",
+     "text": "Hardened drill resistant steel cylinder protector with a rotating disc."
+    },
+    {
+     "label": "",
+     "text": "Security cover plates on both sides of the locking case."
+    },
+    {
+     "label": "",
+     "text": "6 fixed security bolts on the hinge side."
+    },
+    {
+     "label": "Door height",
+     "text": "1820mm-2400mm."
+    },
+    {
+     "label": "Available single door width",
+     "text": "300mm-1100mm in 20mm increments."
+    },
+    {
+     "label": "Door finish",
+     "text": "electrostatic powder coating in a range of colors to choose from, PVC coating or 3mm thickness wooden decorative panels."
+    },
+    {
+     "label": "Door frame",
+     "text": "construction frame or cover frame model 738 is available with preparation for installation of an electric cable lead."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/RB-Defense-Entry-Door-Model-736.png"
+  },
+  {
+   "slug": "blast-forced-entry-door-fe60",
+   "name": "Blast & Forced Entry Door – FE60",
+   "category": "high-security-doors",
+   "image": "/products/blast-forced-entry-door-fe60.png",
+   "w": 279,
+   "h": 417,
+   "summary": "The Blast, Ballistic & Forced Entry Resistant Steel Door model FE60 is manufactured by RB-DOORS according to the highest production standards and in compliance with special regulations of the Israeli Ministry of Defense. The FE60 is a Ballistic Resistant Steel Door, a security door providing the highest protection against burglaries as well as against military rifle and submachine attacks.",
+   "specs": [
+    {
+     "label": "General Description",
+     "text": "The door leaf is constructed of two galvanized steel sheets (door leaf weight aprox. 280 kg) with a ballistic resistant plate installed between them, reinforced with transversal steel bars set across the leaf between the casings. A fourteen-point locking system and four specially designed high resistant hinges provide maximum protection against forced entry and high blast levels. The frame includes an inter-locking mechanism running on sliding bearings, locking the frame into the door in 6 locking points."
+    },
+    {
+     "label": "Hardware and Accessories",
+     "text": "• The multi-point mortise lock secures the door to the frame in 8 locking points, including four special hook locking mechanisms. • High Security RB cylinder with improved cylinder protector, preventing drilling as well as forcing of the lock or the cylinder. • Additional accessories available: hydraulic closer, electric strike, S&G combination lock. • Multi-point locking mortise lock with Electronic monitoring function (lock \\ un-lock) – optional"
+    },
+    {
+     "label": "Ballistic and Blast Resistance",
+     "text": "Certified by H.P. White Labs in accordance with the standards and procedures of SD – STD – 01.01 revisions G (amended) Ballistic protection level: military rifle. The ballistic plate also meets the requirements of the UL 752 standard, protection level 4. Blast Resistance – The door was tested with a blast of 150psi and an impulse of 200psi/msec."
+    },
+    {
+     "label": "Forced Entry Resistance",
+     "text": "The door is certified by H.P. White Labs in accordance with the standards and procedures of SD – STD – 01.01 revisions G (amended) Forced entry protection level: 60 minutes"
+    },
+    {
+     "label": "The Door Frame",
+     "text": "The FE60 special frame may be concrete casted or welded to a steel forced entry resistant wall structure. The frame is made from 3mm thick hot dip galvanized steel sheets reinforced with interior anti-ballistic plates & weighs approx. 100kg. The frame is assembled together with the door in the RB-Doors factory."
+    },
+    {
+     "label": "Door Finish",
+     "text": "Electrostatic powder coating, different colors, PVC coating or 3mm thickness wooden decorative panels."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Blast-Forced-Entry-Door-FE60.png"
+  },
+  {
+   "slug": "forced-entry-resistant-door-fe15",
+   "name": "Forced Entry Resistant Door – FE15",
+   "category": "high-security-doors",
+   "image": "/products/forced-entry-resistant-door-fe15.png",
+   "w": 279,
+   "h": 417,
+   "summary": "The Forced Entry Resistant Door Model FE15 is manufactured by RB-DOORS according to the highest production standards and in compliance with special regulations. The door is suitable for all building types – residential, commercial, institutional, security areas and for special purposes",
+   "specs": [
+    {
+     "label": "General Description",
+     "text": "The door leaf is constructed of two galvanized steel sheets (Door leaf thickness: 50 mm, door weight ~ 85kg), reinforced by horizontal and vertical steel bars welded to the steel sheets and an inner metal reinforcement plate creating a high security door structure. A four way central mortise lock with five reinforcement locking mechanisms, four fixed rear security bolts and four concealed hinges highly secure the door against forced entry. The FE15 door is available in UL 30 min fire rating variant."
+    },
+    {
+     "label": "Hardware and Accessories",
+     "text": "RB’s High security cylinder, hardened drill resistant cylinder protector with a rotating disc, security cover plates on both sides of the locking case. Four way mortise lock with Electronic monitoring function (lock \\ un-lock) – optional Motorized cylinder with mechanic back-up – optional"
+    },
+    {
+     "label": "Door finish",
+     "text": "Electrostatic powder coating, different colors, PVC coating or 3mm thickness wooden decorative panels."
+    },
+    {
+     "label": "Dimensions",
+     "text": "Door Height : 1,960 – 2,370 mm Door width : 700-1,100 mm Double door is available in custom made orders"
+    },
+    {
+     "label": "Frame",
+     "text": "Special FE15 Construction or Cover frames are available"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Forced-Entry-Resistant-Door-FE15.png"
+  },
+  {
+   "slug": "forced-entry-resistant-door-fe5",
+   "name": "Forced Entry Resistant Door – FE5",
+   "category": "high-security-doors",
+   "image": "/products/forced-entry-resistant-door-fe5.png",
+   "w": 279,
+   "h": 417,
+   "summary": "The Forced Entry Resistant Door Model FE5 is manufactured by RB-DOORS according to the highest production standards and in compliance with special regulations. Suitable for all building types – residential, commercial, institutional and for special purposes.",
+   "specs": [
+    {
+     "label": "General Description",
+     "text": "The door leaf is constructed of two galvanized steel sheets (thickness 1.25mm) together with 0.8 hardened steel plate attached to the sheet. Reinforced by horizontal and vertical steel bars, five hook type locking mechanisms and four fixed rear security bolts, four concealed hinges, four way mortise lock. Door leaf thickness: 50mm The door leaf is pre-hung to the frame Door leaf weight ~ 80 kg, outward opening door"
+    },
+    {
+     "label": "Hardware & Accessories",
+     "text": "RB High security cylinder * Hardened drill resistant cylinder protector with a rotating disc * Security cover plates on both sides of the locking case * Four way mortise lock as standard and Electronic monitoring function (lock \\ un-lock) – optional * Motorized cylinder with mechanic back-up – optional"
+    },
+    {
+     "label": "Frame",
+     "text": "Construction or Cover."
+    },
+    {
+     "label": "Door Finishes",
+     "text": "PVC, powder coating finish, 4 mm decorative panels"
+    },
+    {
+     "label": "Dimensions",
+     "text": "Door Height : 1,960 – 2,370 mm Door width : 700-1,100 mm Double door is available in custom made orders"
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Forced-Entry-Resistant-Door-FE5.png"
+  },
+  {
+   "slug": "30-mins-fire-rated-doors-fw30-model",
+   "name": "30 mins Fire Rated Doors – FW30 Model",
+   "category": "fire-doors",
+   "image": "/products/30-mins-fire-rated-doors-fw30-model.png",
+   "w": 400,
+   "h": 600,
+   "summary": "Single or Double-leaf Fire Door model FW30 is a 30 min fire rated door, meeting with Israeli and International fire regulations, providing outstanding protection for various types of commercial and residential buildings, industries and institutions.",
+   "specs": [
+    {
+     "label": "General Description",
+     "text": "Door leaf with two 0.8mm thick galvanized steel casings and interior reinforcements, intumescing gasket between door and frame. Fire rated hardware& telescopic bottom insert for final height adjustment."
+    },
+    {
+     "label": "Hardware & Accessories",
+     "text": "Anti -Panic Lock Moveable lever door handles / Fixed handle Panic bar or Push bar – optional Hydraulic closer – optional Door closing coordinator for double door."
+    },
+    {
+     "label": "Window Dimensions (optional)",
+     "text": "600×400 mm 820×170 mm * Round 440mm diameter"
+    },
+    {
+     "label": "Door Finish",
+     "text": "PVC finish or powder coating."
+    },
+    {
+     "label": "Dimensions",
+     "text": "Maximum door leaf height (without bottom insert) – 2200 mm * Maximum door frame height – 2400 mm * Maximum moveable door width – 1140 mm * Maximum fixed door width – 1140 mm Maximum double-leaf door frame width – 2360 mm *"
+    }
+   ],
+   "fireRating": 30,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/30-mins-Fire-Rated-Doors-FW30-Model.png"
+  },
+  {
+   "slug": "45-mins-fire-rated-door-fwb-model",
+   "name": "45 mins Fire Rated Door – FWB Model",
+   "category": "fire-doors",
+   "image": "/products/45-mins-fire-rated-door-fwb-model.png",
+   "w": 297,
+   "h": 417,
+   "summary": "The single-leaf Fire door model FWB is a 45 minute fire rated doors meeting with Israeli and International fire regulations, providing outstanding protection and safety for various types of industries, facilities, storerooms and stairwells.",
+   "specs": [
+    {
+     "label": "General Description",
+     "text": "Door leaf with two 0.8mm thickness galvanized steel casings and interior reinforcements, intumescing gasket between door and frame. Fire rated hardware and telescopic bottom insert for final height adjustment."
+    },
+    {
+     "label": "Hardware & Accessories",
+     "text": "Fire rated lock, Moveable lever door handles, Fixed handle – optional, Hydraulic closer – optional."
+    },
+    {
+     "label": "Window Dimensions (optional)",
+     "text": "600×400 mm 820×170 mm Round 440mm diameter"
+    },
+    {
+     "label": "Door Finish",
+     "text": "PVC finish or powder coating."
+    },
+    {
+     "label": "Dimensions",
+     "text": "Maximum door leaf height: 2470 mm Maximum door leaf width: 1120 mm Maximum frame dimensions: 2600X1200 mm"
+    }
+   ],
+   "fireRating": 45,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/45-mins-Fire-Rated-Door-FWB-Model.png"
+  },
+  {
+   "slug": "90-mins-fire-rated-door-model-fw90",
+   "name": "90 mins Fire Rated Door – Model FW90",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-door-model-fw90.png",
+   "w": 400,
+   "h": 600,
+   "summary": "Acoustic and Fire door model FW90, is a 90 minute fire rated door meeting the European and Israeli standards requirements. This advanced fire door is available with construction, cover or acoustic frame and provides outstanding protection and safety for various types of commercial and residential facilities, institutions and industries.",
+   "specs": [
+    {
+     "label": "General Description",
+     "text": "The door leaf is made of two 0.8mm galvanized steel sheets, reinforced by an internal profile structure. There are no welding points on the door – increased corrosion resistance. The door is equipped with a telescopic bottom insert for door height adjustment. Double layered door leaf filling – high density rock wool and fire resistant gypsum, peripheral fire and smoke resistant gasket with intumescing core is attached to the door leaf edge."
+    },
+    {
+     "label": "Hardware & Accessories",
+     "text": "Available with stainless steel fixed handle or with moveable handles and anti – Panic lock. Door closer – optional Door coordinator for double leaf door – optional Panic bar – optional."
+    },
+    {
+     "label": "Window Dimensions (optional- except UL)",
+     "text": "600×400 mm 820×170 mm Round 440mm diameter."
+    },
+    {
+     "label": "Door Finish",
+     "text": "PVC finish or powder coating."
+    },
+    {
+     "label": "Dimensions",
+     "text": "Maximum door leaf height (insert height not included) – 2,400 mm Maximum door frame height – 2,500 mm Maximum moveable door width – 1,300 mm Maximum fixed door width – 1,300 mm."
+    },
+    {
+     "label": "",
+     "text": "Acoustic Rating for FW90 Door with Acoustic Frame : Double door – 38 dB * Single door – 41 dB* *Weighted sound reduction index – Rw"
+    },
+    {
+     "label": "Standards",
+     "text": "FW90 – SII according to EN 1634"
+    }
+   ],
+   "fireRating": 90,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-mins-Fire-Rated-Door-Model-FW90.png"
+  },
+  {
+   "slug": "90-mins-fire-rated-entry-door-414-tropez-model",
+   "name": "90 mins Fire Rated Entry Door 414 TROPEZ MODEL",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-entry-door-414-tropez-model.jpg",
+   "w": 768,
+   "h": 1331,
+   "summary": "The 414 SERIES is designed to meet or exceed NYC Department of Buildings Code Requirements and is a certified UL 90 Minute Fire Rated steel door according to UL 10C and NFPA 252. Technical specification",
+   "specs": [
+    {
+     "label": "",
+     "text": "Two 18 gauge galvanized steel sheet covers Interior steel bar reinforcement for optimum security Double layered high-density rockwool insulation and fire resistant gypsum board 2” thick door leaf 132 lbs. UL door leaf Rebated door leaf for extra acoustic and security protection Integrated gasket and edge sealing materials along three sides Integrated weather stripping along the bottom LOCKING SYSTEM Model RB507 4-way Multi-point Locking System Four front lock bolts and spring loaded latch Reinforced bottom and upper bolts Hook-like rear fixed bolts RB’s patented high security tamper proof cylinder Security cover plates on both sides *The Gladiator System upgrade is available for this model FRAME 16 gauge galvanized steel single or double rebated knockdown frame DIMENSIONS • Standard height from 80” up to 96” • Standard width from 24” to 36” STANDARDS UL 10C – 90 minute fire rated • NFPA 252"
+    }
+   ],
+   "fireRating": 90,
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-mins-Fire-Rated-Entry-Door-414-TROPEZ-MODEL-768x1331.jpg"
+  },
+  {
+   "slug": "90-mins-fire-rated-entry-door-414-oxford-model",
+   "name": "90 mins Fire Rated Entry Door 414 OXFORD MODEL",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-entry-door-414-oxford-model.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The 414 SERIES is designed to meet or exceed NYC Department of Buildings Code Requirements and is a certified UL 90 Minute Fire Rated steel door according to UL 10C and NFPA 252.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Two 18 gauge galvanized steel sheet covers"
+    },
+    {
+     "label": "",
+     "text": "Interior steel bar reinforcement for optimum security"
+    },
+    {
+     "label": "",
+     "text": "Double layered high-density rockwool insulation and fire resistant gypsum board 2” thick door leaf"
+    },
+    {
+     "label": "",
+     "text": "132 lbs. UL door leaf"
+    },
+    {
+     "label": "",
+     "text": "Rebated door leaf for extra acoustic and security protection"
+    },
+    {
+     "label": "",
+     "text": "Integrated gasket and edge sealing materials along three sides"
+    },
+    {
+     "label": "",
+     "text": "Integrated weather stripping along the bottom"
+    },
+    {
+     "label": "",
+     "text": "LOCKING SYSTEM"
+    },
+    {
+     "label": "",
+     "text": "Model RB507 4-way Multi-point Locking System Four front lock bolts and spring loaded latch"
+    },
+    {
+     "label": "",
+     "text": "Reinforced bottom and upper bolts"
+    },
+    {
+     "label": "",
+     "text": "Hook-like rear fixed bolts"
+    },
+    {
+     "label": "",
+     "text": "RB’s patented high security tamper proof cylinder Security cover plates on both sides"
+    },
+    {
+     "label": "",
+     "text": "*The Gladiator System upgrade is available for this model FRAME"
+    },
+    {
+     "label": "",
+     "text": "16 gauge galvanized steel single or double rebated knockdown frame"
+    },
+    {
+     "label": "",
+     "text": "DIMENSIONS"
+    },
+    {
+     "label": "",
+     "text": "Standard height from 80” up to 96” • Standard width from 24” to 36”"
+    }
+   ],
+   "fireRating": 90,
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-mins-Fire-Rated-Entry-Door-414-OXFORD-MODEL.png"
+  },
+  {
+   "slug": "90-mins-fire-rated-entry-door-414-striped-design",
+   "name": "90 mins Fire Rated Entry Door 414 STRIPED DESIGN",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-entry-door-414-striped-design.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The 414 SERIES is designed to meet or exceed NYC Department of Buildings Code Requirements and is a certified UL 90 Minute Fire Rated steel door according to UL 10C and NFPA 252.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Two 18 gauge galvanized steel sheet covers"
+    },
+    {
+     "label": "",
+     "text": "Interior steel bar reinforcement for optimum security"
+    },
+    {
+     "label": "",
+     "text": "Double layered high-density rockwool insulation and fire resistant gypsum board 2” thick door leaf"
+    },
+    {
+     "label": "",
+     "text": "132 lbs. UL door leaf"
+    },
+    {
+     "label": "",
+     "text": "Rebated door leaf for extra acoustic and security protection"
+    },
+    {
+     "label": "",
+     "text": "Integrated gasket and edge sealing materials along three sides"
+    },
+    {
+     "label": "",
+     "text": "Integrated weather stripping along the bottom"
+    },
+    {
+     "label": "",
+     "text": "​"
+    },
+    {
+     "label": "",
+     "text": "LOCKING SYSTEM"
+    },
+    {
+     "label": "",
+     "text": "Model RB507 4-way Multi-point Locking System Four front lock bolts and spring loaded latch"
+    },
+    {
+     "label": "",
+     "text": "Reinforced bottom and upper bolts"
+    },
+    {
+     "label": "",
+     "text": "Hook-like rear fixed bolts"
+    },
+    {
+     "label": "",
+     "text": "RB’s patented high security tamper proof cylinder Security cover plates on both sides"
+    },
+    {
+     "label": "",
+     "text": "*The Gladiator System upgrade is available for this model FRAME"
+    },
+    {
+     "label": "",
+     "text": "16 gauge galvanized steel single or double rebated knockdown frame"
+    },
+    {
+     "label": "",
+     "text": "DIMENSIONS"
+    },
+    {
+     "label": "",
+     "text": "Standard height from 80” up to 96” • Standard width from 24” to 36”"
+    },
+    {
+     "label": "",
+     "text": "STANDARDS"
+    },
+    {
+     "label": "",
+     "text": "UL 10C – 90 minute fire rated • NFPA 252"
+    },
+    {
+     "label": "",
+     "text": "DOOR FINISHES"
+    },
+    {
+     "label": "",
+     "text": "RAL Color Catalog"
+    },
+    {
+     "label": "",
+     "text": "3104 9001 9016"
+    },
+    {
+     "label": "",
+     "text": "5103 MR09 9005 7126 MR10 2030"
+    }
+   ],
+   "fireRating": 90,
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-mins-Fire-Rated-Entry-Door-414-STRIPED-DESIGN.png"
+  },
+  {
+   "slug": "90-mins-fire-rated-entry-door-414-venice-model",
+   "name": "90 Mins Fire Rated Entry Door 414 VENICE MODEL",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-entry-door-414-venice-model.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The 414 SERIES is designed to meet or exceed NYC Department of Buildings Code Requirements and is a certified UL 90 Minute Fire Rated steel door according to UL 10C and NFPA 252.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Two 18 gauge galvanized steel sheet covers Interior steel bar reinforcement for optimum security Double layered high-density rockwool insulation and fire resistant gypsum board 2” thick door leaf 132 lbs. UL door leaf Rebated door leaf for extra acoustic and security protection Integrated gasket and edge sealing materials along three sides Integrated weather stripping along the bottom"
+    },
+    {
+     "label": "",
+     "text": "LOCKING SYSTEM"
+    },
+    {
+     "label": "",
+     "text": "Model RB507 4-way Multi-point Locking System Four front lock bolts and spring loaded latch Reinforced bottom and upper bolts Hook-like rear fixed bolts RB’s patented high security tamper proof cylinder Security cover plates on both sides *The Gladiator System upgrade is available for this model FRAME 16 gauge galvanized steel single or double rebated knockdown frame"
+    },
+    {
+     "label": "",
+     "text": "DIMENSIONS"
+    },
+    {
+     "label": "",
+     "text": "Standard height from 80” up to 96” Standard width from 24” to 36”"
+    },
+    {
+     "label": "",
+     "text": "STANDARDS"
+    },
+    {
+     "label": "",
+     "text": "UL 10C – 90 minute fire rated NFPA 252"
+    }
+   ],
+   "fireRating": 90,
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-Mins-Fire-Rated-Entry-Door-414-VENICE-MODEL.png"
+  },
+  {
+   "slug": "90-mins-fire-rated-entry-door-414-renaissance-model",
+   "name": "90 mins Fire Rated Entry Door 414 RENAISSANCE MODEL",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-entry-door-414-renaissance-model.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The 414 SERIES is designed to meet or exceed NYC Department of Buildings Code Requirements and is a certified UL 90 Minute Fire Rated steel door according to UL 10C and NFPA 252.",
+   "specs": [
+    {
+     "label": "",
+     "text": "Two 18 gauge galvanized steel sheet covers Interior steel bar reinforcement for optimum security Double layered high-density rockwool insulation and fire resistant gypsum board 2” thick door leaf 132 lbs. UL door leaf Rebated door leaf for extra acoustic and security protection Integrated gasket and edge sealing materials along three sides Integrated weather stripping along the bottom"
+    },
+    {
+     "label": "",
+     "text": "LOCKING SYSTEM"
+    },
+    {
+     "label": "",
+     "text": "Model RB507 4-way Multi-point Locking System Four front lock bolts and spring loaded latch Reinforced bottom and upper bolts Hook-like rear fixed bolts RB’s patented high security tamper proof cylinder Security cover plates on both sides *The Gladiator System upgrade is available for this model"
+    },
+    {
+     "label": "",
+     "text": "FRAME"
+    },
+    {
+     "label": "",
+     "text": "16 gauge galvanized steel single or double rebated knockdown frame"
+    },
+    {
+     "label": "",
+     "text": "DIMENSIONS"
+    },
+    {
+     "label": "",
+     "text": "Standard height from 80” up to 96"
+    },
+    {
+     "label": "",
+     "text": "Standard width from 24” to 36"
+    },
+    {
+     "label": "",
+     "text": "STANDARDS"
+    },
+    {
+     "label": "",
+     "text": "UL 10C – 90 minute fire rated NFPA 252"
+    }
+   ],
+   "fireRating": 90,
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-mins-Fire-Rated-Entry-Door-414-RENAISSANCE-MODEL.png"
+  },
+  {
+   "slug": "90-mins-fire-rated-entry-door-414-classic-model",
+   "name": "90 mins Fire Rated Entry Door 414 CLASSIC MODEL",
+   "category": "fire-doors",
+   "image": "/products/90-mins-fire-rated-entry-door-414-classic-model.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The 414 SERIES is designed to meet or exceed NYC Department of Buildings Code Requirements and is a certified UL 90 Minute Fire Rated steel door according to UL 10C and NFPA 252. Technical specification",
+   "specs": [
+    {
+     "label": "",
+     "text": "Two 18 gauge galvanized steel sheet covers"
+    },
+    {
+     "label": "",
+     "text": "Interior steel bar reinforcement for optimum security"
+    },
+    {
+     "label": "",
+     "text": "High-density Rockwool insulation and fire resistant, 2 1/3” thick door leaf"
+    },
+    {
+     "label": "",
+     "text": "132 lbs. (60 kg) door leaf"
+    },
+    {
+     "label": "",
+     "text": "Rebated door leaf for extra acoustic and security protection"
+    },
+    {
+     "label": "",
+     "text": "Integrated gasket and edge sealing materials along three sides"
+    },
+    {
+     "label": "",
+     "text": "Integrated weather stripping along the bottom"
+    },
+    {
+     "label": "",
+     "text": "LOCKING SYSTEM Model RB507 4-way Multi-point Locking System Four front lock bolts and spring loaded latch Reinforced bottom and upper bolts Hook-like rear fixed bolts RB’s patented high security tamper proof cylinder Security cover plates on both sides​"
+    },
+    {
+     "label": "",
+     "text": "DIMENSIONS Height from 80” (2100mm) up to 96” (2400mm) width from 24” (610mm) to 36” (900mm)"
+    },
+    {
+     "label": "",
+     "text": "The Gladiator System upgrade is available for this model"
+    },
+    {
+     "label": "",
+     "text": "FRAME – 16 gauge galvanized steel single or double rebated knockdown frame"
+    },
+    {
+     "label": "",
+     "text": "Finish – Electrostatic painting or PVC"
+    },
+    {
+     "label": "",
+     "text": "STANDARDS UL 10C – 90 minute fire rated NFPA 252"
+    }
+   ],
+   "fireRating": 90,
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/90-mins-Fire-Rated-Entry-Door-414-CLASSIC-MODEL.png"
+  },
+  {
+   "slug": "model-basic",
+   "name": "Basic",
+   "category": "entrance-doors",
+   "image": "/products/model-basic.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.Sometimes less is more!",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades"
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Basic.png"
+  },
+  {
+   "slug": "model-renaissance",
+   "name": "Renaissance",
+   "category": "entrance-doors",
+   "image": "/products/model-renaissance.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades . with protruding panels on the outer door panel."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Renaissance.png"
+  },
+  {
+   "slug": "model-martinique",
+   "name": "Martinique",
+   "category": "entrance-doors",
+   "image": "/products/model-martinique.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "African Walnut finish. Note : The door should be protected from direct sunlight and contact with water."
+    },
+    {
+     "label": "Type of Door Frame",
+     "text": "Steel Construction frame (for casting into the wall) or PVC coated Cover frame, for installation on existing jamb."
+    },
+    {
+     "label": "Dimensions",
+     "text": "The entry door is produced according to customers’ required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock"
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Martinique.png"
+  },
+  {
+   "slug": "model-roxana",
+   "name": "Roxana",
+   "category": "entrance-doors",
+   "image": "/products/model-roxana.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "African Walnut finish. Note : The door should be protected from direct sunlight and contact with water."
+    },
+    {
+     "label": "Type of Door Frame",
+     "text": "Steel Construction frame (for casting into the wall) or PVC coated Cover frame, for installation on existing jamb."
+    },
+    {
+     "label": "Dimensions",
+     "text": "The entry door is produced according to customers’ required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock"
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Roxana.png"
+  },
+  {
+   "slug": "model-amelia",
+   "name": "Amelia",
+   "category": "entrance-doors",
+   "image": "/products/model-amelia.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "African Walnut finish. Note : The door should be protected from direct sunlight and contact with water."
+    },
+    {
+     "label": "Type of Door Frame",
+     "text": "Steel Construction frame (for casting into the wall) or PVC coated Cover frame, for installation on existing jamb."
+    },
+    {
+     "label": "Dimensions",
+     "text": "The entry door is produced according to customers’ required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock"
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Amelia.png"
+  },
+  {
+   "slug": "alexandra",
+   "name": "Alexandra",
+   "category": "entrance-doors",
+   "image": "/products/alexandra.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "African Walnut finish. Note : The door should be protected from direct sunlight and contact with water."
+    },
+    {
+     "label": "Type of Door Frame",
+     "text": "Steel Construction frame (for casting into the wall) or PVC coated Cover frame, for installation on existing jamb."
+    },
+    {
+     "label": "Dimensions",
+     "text": "The entry door is produced according to customers’ required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock"
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Alexandra.png"
+  },
+  {
+   "slug": "model-triple",
+   "name": "Triple",
+   "category": "entrance-doors",
+   "image": "/products/model-triple.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. with aluminum striping on the outer panel."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Triple.png"
+  },
+  {
+   "slug": "model-montebella",
+   "name": "Montebella",
+   "category": "entrance-doors",
+   "image": "/products/model-montebella.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Composite Aluminum Panels finished in a range of shades."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to customers’ required sizes- Custom-Made."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Montebella.png"
+  },
+  {
+   "slug": "mixmatch-laccatto-white",
+   "name": "Mix&Match Laccatto White",
+   "category": "entrance-doors",
+   "image": "/products/mixmatch-laccatto-white.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Composite Aluminum Panels finished in a range of shades."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to customers’ required sizes- Custom-Made."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Laccatto-White.png"
+  },
+  {
+   "slug": "mixmatch-laccatto-black",
+   "name": "Mix&Match Laccatto Black",
+   "category": "entrance-doors",
+   "image": "/products/mixmatch-laccatto-black.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Composite Aluminum Panels finished in a range of shades."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to customers’ required sizes- Custom-Made."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    }
+   ],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Laccatto-Black.png"
+  },
+  {
+   "slug": "model-canterbury",
+   "name": "Canterbury",
+   "category": "entrance-doors",
+   "image": "/products/model-canterbury.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "according to required sizes"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Canterbury.png"
+  },
+  {
+   "slug": "model-ids-9000",
+   "name": "IDS 9000",
+   "category": "entrance-doors",
+   "image": "/products/model-ids-9000.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. Double-glazed insulated window and internal grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/IDS9000.png"
+  },
+  {
+   "slug": "model-chianti",
+   "name": "Chianti",
+   "category": "entrance-doors",
+   "image": "/products/model-chianti.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "according to required sizes"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Chianti.png"
+  },
+  {
+   "slug": "model-shinkein",
+   "name": "Shinkein",
+   "category": "entrance-doors",
+   "image": "/products/model-shinkein.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "according to required sizes"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Shinkein.png"
+  },
+  {
+   "slug": "model-retro",
+   "name": "Retro",
+   "category": "entrance-doors",
+   "image": "/products/model-retro.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "according to required sizes"
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Retro.png"
+  },
+  {
+   "slug": "model-ids6700",
+   "name": "IDS6700",
+   "category": "entrance-doors",
+   "image": "/products/model-ids6700.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. Double-glazed insulated window and internal grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/IDS6700.png"
+  },
+  {
+   "slug": "model-topeka",
+   "name": "Topeka",
+   "category": "entrance-doors",
+   "image": "/products/model-topeka.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The most advanced and most sold decorative steel door in the world. Incorporating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades . with protruding panels on the outer door panel."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Topeka.png"
+  },
+  {
+   "slug": "model-luka",
+   "name": "Luka",
+   "category": "entrance-doors",
+   "image": "/products/model-luka.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The door is coated with high quality electrostatic painting and features a stylish profile running down the length of the door on both the inner and outer sides. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades . with protruding panels on the outer door panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Luka.png"
+  },
+  {
+   "slug": "model-quattro",
+   "name": "Quattro",
+   "category": "entrance-doors",
+   "image": "/products/model-quattro.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. with protruding rectangular embossments on the outer panel."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Quattro.png"
+  },
+  {
+   "slug": "model-japan",
+   "name": "Japan",
+   "category": "entrance-doors",
+   "image": "/products/model-japan.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The door is coated with high quality electrostatic painting and features a stylish profile running down the length of the door on both the inner and outer sides.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades . with protruding panels on the outer door panel."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Japan.png"
+  },
+  {
+   "slug": "model-ids7700",
+   "name": "IDS7700",
+   "category": "entrance-doors",
+   "image": "/products/model-ids7700.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances.",
+   "specs": [
+    {
+     "label": "Door Structure",
+     "text": "1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength."
+    },
+    {
+     "label": "Lock System",
+     "text": "Multi bolt lock system comprising of seven bolts, directed in four ways."
+    },
+    {
+     "label": "Door Finish & Design",
+     "text": "Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. Double-glazed insulated window and internal grille. Also available with reinforced glass."
+    },
+    {
+     "label": "Dimensions",
+     "text": "According to required sizes."
+    },
+    {
+     "label": "Locking Mechanism",
+     "text": "The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock."
+    },
+    {
+     "label": "Hardware",
+     "text": "Hardened cylinder guards and a broad choice of handles to select from."
+    },
+    {
+     "label": "",
+     "text": "Also available with the unique high security Gladiator® system"
+    }
+   ],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/IDS7700.png"
+  },
+  {
+   "slug": "model-andromeda",
+   "name": "Andromeda",
+   "category": "entrance-doors",
+   "image": "/products/model-andromeda.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative grille. Dimensions: According to required sizes Locking Mechanism: door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Andromeda.png"
+  },
+  {
+   "slug": "model-kyoto",
+   "name": "Kyoto",
+   "category": "entrance-doors",
+   "image": "/products/model-kyoto.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The Kyoto design was inspired by the Mashrabiya window- characteristic to Oriental architecture- designed grilles for separating different spaces. The style is unique to RB-DOORS and is especially loved by designers and architects with its play on light from the combination of the laser cut grille and the glass window. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength Lock System: bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades Steel laser cutting designs with ulterior glass or colored steel combination. Dimensions: According to required sizes Locking Mechanism: door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Kyoto.png"
+  },
+  {
+   "slug": "model-arena",
+   "name": "Arena",
+   "category": "entrance-doors",
+   "image": "/products/model-arena.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative grille. Dimensions: According to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Arena.png"
+  },
+  {
+   "slug": "model-nara",
+   "name": "Nara",
+   "category": "entrance-doors",
+   "image": "/products/model-nara.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The beautiful Nara door is constructed using the combination of glass encased by laser cut steel in geometric patterns, creating an understated modern look. The door is the result of development and joint efforts between the company’s designers and engineers, perfectly combining an updated, modern look, a statement of outstanding design and maximal security. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades Steel laser cutting designs with ulterior glass or colored steel combination. Dimensions: According to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Nara.png"
+  },
+  {
+   "slug": "model-bologna",
+   "name": "Bologna",
+   "category": "entrance-doors",
+   "image": "/products/model-bologna.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative grille. Dimensions: According to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Bologna.png"
+  },
+  {
+   "slug": "model-florentin",
+   "name": "Florentin",
+   "category": "entrance-doors",
+   "image": "/products/model-florentin.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass. Dimensions: according to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Florentin.png"
+  },
+  {
+   "slug": "model-limassol",
+   "name": "Limassol",
+   "category": "entrance-doors",
+   "image": "/products/model-limassol.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative grille. Dimensions: According to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Limassol.png"
+  },
+  {
+   "slug": "mixmatch-model-d",
+   "name": "MIX&MATCH – Model D",
+   "category": "entrance-doors",
+   "image": "/products/mixmatch-model-d.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The concept and design for the Modular Door Series is an exciting, novel concept launched by RB-DOORS. The “Design-It-Yourself” System offers the consumer freedom of design and the potential for self-expression while maintaining the security and protection RB-DOORS and products are known for. Technical specification Door Structure: .25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Design: Flat surfaced door with selected finish. The series boasts a wide selection of innovative finishes new to the door industry and exclusive to RB-Doors: Faux Fabric Finish, Shiny Finish for a Modern Look, Faux Wood Finish and more! The interior side of the door is supplied with a painted finish. Dimensions: According to required sizes. Locking Mechanism: door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Model-D.png"
+  },
+  {
+   "slug": "mixmatch-model-c",
+   "name": "MIX&MATCH – Model C",
+   "category": "entrance-doors",
+   "image": "/products/mixmatch-model-c.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The concept and design for the Modular Door Series is an exciting, novel concept launched by RB-DOORS. The “Design-It-Yourself” System offers the consumer freedom of design and the potential for self-expression while maintaining the security and protection RB-DOORS and products are known for. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Design: 3 equal sections, peripheral aluminum profile and horizontal aluminum striping in either black or nickel. The series boasts a wide selection of innovative finishes new to the door industry and exclusive to RB-Doors: Faux Fabric Finish, Shiny Finish for a Modern Look, Faux Wood Finish and more! The interior side of the door is supplied with a painted finish. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Model-C.png"
+  },
+  {
+   "slug": "mixmatch-model-b",
+   "name": "MIX&MATCH – Model B",
+   "category": "entrance-doors",
+   "image": "/products/mixmatch-model-b.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The concept and design for the Modular Door Series is an exciting, novel concept launched by RB-DOORS. The “Design-It-Yourself” System offers the consumer freedom of design and the potential for self-expression while maintaining the security and protection RB-DOORS and products are known for. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Design: 5 equal sections including a middle section in a natural aluminum finish with lock, peripheral aluminum profile and horizontal aluminum striping in either black or nickel. (6 sections for taller doors) The series boasts a wide selection of innovative finishes new to the door industry and exclusive to RB-Doors: Faux Fabric Finish, Shiny Finish for a Modern Look, Faux Wood Finish and more! The interior side of the door is supplied with a painted finish. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Model-B.png"
+  },
+  {
+   "slug": "mixmatch-model-a",
+   "name": "MIX&MATCH – Model A",
+   "category": "entrance-doors",
+   "image": "/products/mixmatch-model-a.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The concept and design for the Modular Door Series is an exciting, novel concept launched by RB-DOORS. The “Design-It-Yourself” System offers the consumer freedom of design and the potential for self-expression while maintaining the security and protection RB-DOORS and products are known for. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Design: 5 equal sections, peripheral aluminum profile and horizontal aluminum striping in either black or nickel. (6 sections for taller doors) The series boasts a wide selection of innovative finishes new to the door industry and exclusive to RB-Doors: Faux Fabric Finish, Shiny Finish for a Modern Look, Faux Wood Finish and more! The interior side of the door is supplied with a painted finish. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Model-A.png"
+  },
+  {
+   "slug": "model-neve-zedek",
+   "name": "Neve Zedek",
+   "category": "entrance-doors",
+   "image": "/products/model-neve-zedek.png",
+   "w": 400,
+   "h": 600,
+   "summary": "One of the most popular and loved designs – the chic Neve Zedek Model, named after the romantice Israeli neighborhood, is a decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass. Dimensions: according to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Neve-Zedek.png"
+  },
+  {
+   "slug": "model-cleopatra",
+   "name": "Cleopatra",
+   "category": "entrance-doors",
+   "image": "/products/model-cleopatra.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. with aluminum striping on the outer panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Cleopatra.png"
+  },
+  {
+   "slug": "model-nara-light",
+   "name": "Nara Light",
+   "category": "entrance-doors",
+   "image": "/products/model-nara-light.png",
+   "w": 400,
+   "h": 600,
+   "summary": "The beautiful Nara door design is constructed using the combination of glass encased by laser cut steel in geometric patterns, creating an understated modern look. The door is the result of development and joint efforts between the company’s designers and engineers, perfectly combining an updated, modern look, a statement of outstanding design and maximal security. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative grille. Dimensions: According to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Hardened cylinder guards and a broad choice of handles to select from.",
+   "specs": [],
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Nara-Light.png"
+  },
+  {
+   "slug": "model-venice",
+   "name": "Venice",
+   "category": "entrance-doors",
+   "image": "/products/model-venice.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades . with protruding panels on the outer door panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/Venice.png"
+  },
+  {
+   "slug": "model-oxford",
+   "name": "Oxford",
+   "category": "entrance-doors",
+   "image": "/products/model-oxford.png",
+   "w": 400,
+   "h": 600,
+   "summary": "Like the well-known city of Oxford, located west of London, England, the Oxford Door, designed by RB-DOOR’s team of designers, is serious and reserved, reflecting the city’s refined elegance and class. The door is coated with high quality electrostatic painting and features a stylish profile running down the length of the door on both the inner and outer sides. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades . with protruding panels on the outer door panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/דלת_כניסה_דגם_אוקספורד.png"
+  },
+  {
+   "slug": "model-ofek",
+   "name": "Ofek",
+   "category": "entrance-doors",
+   "image": "/products/model-ofek.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. with protruding rectangular embossments on the outer panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/דלת_כניסה_דגם_אופק.png"
+  },
+  {
+   "slug": "model-provence",
+   "name": "Provence",
+   "category": "entrance-doors",
+   "image": "/products/model-provence.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. with aluminum striping on the outer panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/דלת_כניסה_דגם_פרובונס-1.png"
+  },
+  {
+   "slug": "model-duet",
+   "name": "Duet",
+   "category": "entrance-doors",
+   "image": "/products/model-duet.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades. with aluminum striping on the outer panel. Dimensions: According to required sizes. Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/דלת_כניסה_דגם_דואיי.png"
+  },
+  {
+   "slug": "model-gaya",
+   "name": "Gaya",
+   "category": "entrance-doors",
+   "image": "/products/model-gaya.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative grille. Dimensions: According to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/דלת_כניסה_דגם_גאיה.png"
+  },
+  {
+   "slug": "model-firenze",
+   "name": "Firenze",
+   "category": "entrance-doors",
+   "image": "/products/model-firenze.png",
+   "w": 400,
+   "h": 600,
+   "summary": "A chic line of decorative design steel entry door that boasts top quality materials and high security locking mechanisms, incorprating the latest technologies, security systems and design for residential entrances. Technical specification Door Structure: 1.25 mm thick galvanized steel panels combined with vertical and horizontal steel reinforcements built into the body of the door, engineered for maximum strength. Lock System: Multi bolt lock system comprising of seven bolts, directed in four ways. Door Finish & Design: Electrostatic powder coating providing outstanding durability, in a choice of RAL colour shades TRIPLEX double-glazed window and decorative external grille. Also available with reinforced glass. Dimensions: according to required sizes Locking Mechanism: The door can be upgraded with advanced locking mechanisms operated by the central multi-point lock. Hardware: Hardened cylinder guards and a broad choice of handles to select from. Also available with the unique high security Gladiator® system",
+   "specs": [],
+   "gladiator": true,
+   "source": "https://www.gsl-nig.com/wp-content/uploads/2019/06/firenze.png"
+  }
+ ]
+}
