@@ -227,19 +227,20 @@ html.nav-hidden .header { transform: translateY(-140%); }
 .rail__btn:active { transform: scale(0.94); }
 .rail__btn[disabled] { opacity: 0.3; pointer-events: none; }
 
-/* ---------- Loader, version 5: the film, then the name ----------
-   The clip is in the page HTML with its first frame embedded, so the
-   gladiator is on screen at once. As he finishes his turn and stops, the
-   film eases to one side and the name wipes in beside him. Then the screen
-   lifts. --t0 is set when the clip starts playing, so a slow connection
-   delays the sequence instead of cutting the film short. */
-.loader { --loader-bg: #000; --dock: translate(-260px, 0) scale(0.8); animation-delay: calc(5300ms + var(--t0, 0ms)); }
-.loader__film { animation: loader-dock 950ms calc(3250ms + var(--t0, 0ms)) cubic-bezier(0.65, 0, 0.2, 1) forwards; }
+/* ---------- Loader, version 6: nothing until the film is playing ----------
+   The screen is plain black until the clip is actually playing. From that
+   moment one timeline runs: the film fades in, he turns and stops, the film
+   eases to one side and the name wipes in beside him, the screen lifts.
+   Every animation here is paused until the script in Loader.tsx sets
+   data-film="go" on <html>, so the sequence can never run ahead of the
+   film. If the clip cannot start, data-film="skip" lifts the screen. */
+.loader { --loader-bg: #000; --dock: translate(-260px, 0) scale(0.8); animation-delay: 5300ms; }
+.loader__film { animation: loader-dock 950ms 3250ms cubic-bezier(0.65, 0, 0.2, 1) forwards; }
 .loader__video {
   width: min(94vw, 860px); height: auto; display: block;
   -webkit-mask-image: radial-gradient(ellipse at center, #000 52%, transparent 76%);
   mask-image: radial-gradient(ellipse at center, #000 52%, transparent 76%);
-  animation: loader-film-in 450ms ease both, loader-push 3400ms cubic-bezier(0.2, 0.6, 0.2, 1) both;
+  animation: loader-film-in 350ms ease both, loader-push 3400ms cubic-bezier(0.2, 0.6, 0.2, 1) both;
 }
 @keyframes loader-film-in { from { opacity: 0; } }
 @keyframes loader-push { from { scale: 1.07; } }
@@ -249,7 +250,7 @@ html.nav-hidden .header { transform: translateY(-140%); }
   justify-self: start; margin-left: calc(50% + 40px); display: block; opacity: 1; white-space: nowrap;
   font-size: clamp(1.75rem, 3.2vw, 2.75rem); line-height: 1.1;
   clip-path: inset(-10% 100% -10% 0);
-  animation: loader-name 850ms calc(3650ms + var(--t0, 0ms)) cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation: loader-name 850ms 3650ms cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 @keyframes loader-name {
   from { clip-path: inset(-10% 100% -10% 0); transform: translateX(40px); }
@@ -272,7 +273,15 @@ html.nav-hidden .header { transform: translateY(-140%); }
 /* A hairline along the bottom fills as the sequence runs. */
 .loader::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: #e8e9e5;
-  transform-origin: left; animation: loader-bar 5100ms var(--t0, 0ms) cubic-bezier(0.4, 0, 0.2, 1) both;
+  transform-origin: left; animation: loader-bar 5100ms cubic-bezier(0.4, 0, 0.2, 1) both;
 }
 @keyframes loader-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-html:not([data-loader="off"]) .scene__intro { animation-delay: calc(5500ms + var(--t0, 0ms)); }
+html:not([data-loader="off"]) .scene__intro { animation-delay: 5500ms; }
+
+/* The gate: hold everything at its first frame until the film plays. */
+html:not([data-film]) .loader, html:not([data-film]) .loader::after, html:not([data-film]) .loader *,
+html:not([data-film]):not([data-loader="off"]) .scene__intro { animation-play-state: paused; }
+/* The clip could not start: lift the black screen straight away. */
+html[data-film="skip"] .loader { animation: loader-out 500ms ease forwards; }
+html[data-film="skip"] .loader > *, html[data-film="skip"] .loader::after { display: none; }
+html[data-film="skip"] .scene__intro { animation: none; }
