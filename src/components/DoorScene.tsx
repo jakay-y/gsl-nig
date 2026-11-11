@@ -219,7 +219,7 @@ export function DoorScene({ children }: { children: ReactNode }) {
       const ending = seg(p, 0.86, 1);
 
       // The door sits beside the headline at first, then takes centre stage.
-      door.position.x = (wide ? 1.5 : 0) * opening;
+      door.position.x = (wide ? Math.min(1.75, 0.95 * aspect) : 0) * opening;
       door.rotation.y = lerp(-0.62, -0.2, 1 - opening) + ending * 0.72 + pointer.x * 0.07;
 
       const xray = seg(p, 0.2, 0.3) * (1 - seg(p, 0.88, 0.95));
@@ -244,7 +244,7 @@ export function DoorScene({ children }: { children: ReactNode }) {
       // On a wide screen the door moves right to leave the caption its own space;
       // on a phone the camera centres on the lock edge instead.
       target.set(
-        door.position.x + (wide ? -0.62 : 0.3) * closeUp,
+        (wide ? -0.62 : 0.3) * closeUp,
         lerp(lerp(wide ? 1.05 : 1.25 + low * 1.3, 1.03, closeUp), 1.7, top),
         0,
       );

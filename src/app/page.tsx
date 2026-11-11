@@ -45,7 +45,7 @@ export default function Home() {
         </p>
         <div className="row">
           <Link href="/quote" className="btn btn--primary">Request a quote</Link>
-          <Link href="/catalogue" className="btn btn--quiet">Browse {products.length} products</Link>
+          <Link href="/catalogue" className="btn btn--quiet">Check inventory</Link>
         </div>
       </DoorScene>
 
@@ -58,8 +58,8 @@ export default function Home() {
             <div data-reveal style={{ "--d": "120ms" } as React.CSSProperties}>
               <h2 id="why" className="title">Why it holds.</h2>
               <div className="perks">
-                {PERKS.map((perk) => (
-                  <div className="perk" key={perk.title}>
+                {PERKS.map((perk, i) => (
+                  <div className="perk" key={perk.title} data-reveal style={{ "--d": `${200 + i * 90}ms` } as React.CSSProperties}>
                     <span className="perk__ico" aria-hidden="true">
                       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round">
                         <path d={perk.icon} />
@@ -109,7 +109,7 @@ export default function Home() {
           <div className="stats">
             {STATS.map((s, i) => (
               <div className="panel stat" key={s.label} data-reveal style={{ "--d": `${i * 70}ms` } as React.CSSProperties}>
-                <div><b>{s.figure}</b><span>{s.label}</span></div>
+                <div><b data-count>{s.figure}</b><span>{s.label}</span></div>
                 <p>{s.text}</p>
               </div>
             ))}
@@ -121,11 +121,11 @@ export default function Home() {
         <div className="wrap" data-reveal>
           <h2 id="ranges" className="title">Eight ranges.<br /><span className="tone">One supplier, from survey to fitting.</span></h2>
         </div>
-        <ul className="rail" data-reveal>
+        <ul className="rail">
           {categories.map((c) => {
             const first = products.find((p) => p.category === c.slug && p.slug !== "the-gladiator-system");
             return (
-              <li key={c.slug}>
+              <li key={c.slug} data-reveal>
                 <Link href={`/catalogue?range=${c.slug}`} className="rail__card">
                   {/* eslint-disable-next-line @next/next/no-img-element */}
                   {first && <img src={first.image} alt="" width={first.w} height={first.h} loading="lazy" decoding="async" />}
