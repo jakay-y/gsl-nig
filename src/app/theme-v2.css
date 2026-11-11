@@ -211,13 +211,6 @@ html.nav-hidden .header { transform: translateY(-140%); }
 .card .bay, .switcher__door .bay { transition: transform 420ms var(--ease-out); }
 .card:hover .bay { transform: translateY(-6px); }
 
-/* ---------- Loader, version 2: a lit 3D still life ---------- */
-.loader { animation-delay: calc(4000ms + var(--t0, 0ms)); }
-.loader__canvas { width: 100%; height: 100%; display: block; opacity: 0; transition: opacity 600ms ease; animation: loader-scene-out 520ms calc(2750ms + var(--t0, 0ms)) forwards; }
-.loader__canvas.is-ready { opacity: 1; }
-.loader__logo { animation-delay: calc(3000ms + var(--t0, 0ms)); }
-@keyframes loader-scene-out { to { opacity: 0; transform: scale(1.05); } }
-html:not([data-loader="off"]) .scene__intro { animation-delay: calc(4200ms + var(--t0, 0ms)); }
 
 /* ---------- Rail controls and alignment ---------- */
 /* The row runs to the screen edge, but its first card starts on the same
@@ -233,3 +226,32 @@ html:not([data-loader="off"]) .scene__intro { animation-delay: calc(4200ms + var
 .rail__btn:hover { background: var(--ink); color: var(--bg); }
 .rail__btn:active { transform: scale(0.94); }
 .rail__btn[disabled] { opacity: 0.3; pointer-events: none; }
+
+/* ---------- Loader, version 3: the gladiator film ----------
+   A 4.1 second clip plays on black, the frame pushes in and dissolves on the
+   glint in the helmet, the name settles into place, and the screen lifts.
+   --t0 is set when the clip starts playing, so a slow connection delays the
+   whole sequence instead of cutting the film short. */
+.loader { --loader-bg: #000; animation-delay: calc(4450ms + var(--t0, 0ms)); }
+.loader__video {
+  width: min(94vw, 860px); height: auto; display: block; opacity: 0; transform: scale(1.07);
+  mix-blend-mode: screen;
+  -webkit-mask-image: radial-gradient(ellipse at center, #000 52%, transparent 76%);
+  mask-image: radial-gradient(ellipse at center, #000 52%, transparent 76%);
+  transition: opacity 700ms ease, transform 3600ms cubic-bezier(0.2, 0.6, 0.2, 1);
+  animation: loader-film-out 650ms calc(3600ms + var(--t0, 0ms)) cubic-bezier(0.6, 0, 0.3, 1) forwards;
+}
+.loader__video.is-ready { opacity: 1; transform: none; }
+@keyframes loader-film-out { to { opacity: 0; transform: scale(1.16); filter: blur(10px); } }
+.loader__logo { animation: loader-name 900ms calc(3700ms + var(--t0, 0ms)) cubic-bezier(0.16, 1, 0.3, 1) forwards; }
+@keyframes loader-name {
+  from { opacity: 0; transform: scale(0.92); letter-spacing: 0.08em; filter: blur(8px); }
+  to { opacity: 1; transform: none; letter-spacing: -0.035em; filter: blur(0); }
+}
+/* A hairline along the bottom fills as the sequence runs. */
+.loader::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: #e8e9e5;
+  transform-origin: left; animation: loader-bar 4300ms var(--t0, 0ms) cubic-bezier(0.4, 0, 0.2, 1) both;
+}
+@keyframes loader-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+html:not([data-loader="off"]) .scene__intro { animation-delay: calc(4650ms + var(--t0, 0ms)); }
