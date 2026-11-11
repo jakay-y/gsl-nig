@@ -33,7 +33,7 @@ export const viewport: Viewport = {
 // Applies a saved theme before first paint so the page never flashes.
 // It also marks that scripts run (so scroll reveals may hide content first)
 // and lets the loading screen play only once per visit.
-const themeScript = `var d=document.documentElement;d.classList.add("js");try{var t=localStorage.getItem("gsl-theme");if(t==="light"||t==="dark")d.dataset.theme=t;if(sessionStorage.getItem("gsl-loaded"))d.dataset.loader="off";else sessionStorage.setItem("gsl-loaded","1")}catch(e){}`;
+const themeScript = `var d=document.documentElement;d.classList.add("js");try{var t=localStorage.getItem("gsl-theme");if(t==="light"||t==="dark")d.dataset.theme=t;if(sessionStorage.getItem("gsl-loaded")&&!/[?&]intro/.test(location.search))d.dataset.loader="off";else sessionStorage.setItem("gsl-loaded","1")}catch(e){}`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (

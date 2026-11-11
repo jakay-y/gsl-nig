@@ -12,7 +12,10 @@ export function Loader() {
   return (
     <div className="loader" aria-hidden="true">
       <LoaderScene />
-      <p className="loader__logo">Gladiator Systems</p>
+      <div className="loader__lockup">
+        <p className="loader__logo">Gladiator Systems</p>
+        <p className="loader__tag">Security doors, fire doors and smart locks. Abuja, since 2012.</p>
+      </div>
     </div>
   );
 }
