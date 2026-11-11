@@ -2,7 +2,10 @@ import type { Metadata, Viewport } from "next";
 import Link from "next/link";
 import { Archivo } from "next/font/google";
 import "./globals.css";
+import "./theme-v2.css";
 import { Header, ShowroomStatus } from "@/components/Chrome";
+import { Loader } from "@/components/Loader";
+import { SiteFx } from "@/components/SiteFx";
 import { categories, site } from "@/lib/catalogue";
 
 // One family across its width axis: condensed for display, normal for reading.
@@ -28,7 +31,9 @@ export const viewport: Viewport = {
 };
 
 // Applies a saved theme before first paint so the page never flashes.
-const themeScript = `try{var t=localStorage.getItem("gsl-theme");if(t==="light"||t==="dark")document.documentElement.dataset.theme=t}catch(e){}`;
+// It also marks that scripts run (so scroll reveals may hide content first)
+// and lets the loading screen play only once per visit.
+const themeScript = `var d=document.documentElement;d.classList.add("js");try{var t=localStorage.getItem("gsl-theme");if(t==="light"||t==="dark")d.dataset.theme=t;if(sessionStorage.getItem("gsl-loaded"))d.dataset.loader="off";else sessionStorage.setItem("gsl-loaded","1")}catch(e){}`;
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
@@ -37,6 +42,8 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script dangerouslySetInnerHTML={{ __html: themeScript }} />
       </head>
       <body>
+        <Loader />
+        <SiteFx />
         <a className="skip" href="#main">Skip to content</a>
         <Header />
         <main id="main">{children}</main>
