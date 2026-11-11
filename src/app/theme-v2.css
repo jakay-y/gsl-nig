@@ -227,42 +227,52 @@ html.nav-hidden .header { transform: translateY(-140%); }
 .rail__btn:active { transform: scale(0.94); }
 .rail__btn[disabled] { opacity: 0.3; pointer-events: none; }
 
-/* ---------- Loader, version 4: the film becomes the logo ----------
-   The 4.1 second clip plays on black. When the gladiator turns and holds,
-   that held frame slides left and shrinks to become the mark, and the name
-   and description arrive beside it. Then the screen lifts.
-   --t0 is set when the clip starts playing, so a slow connection delays the
-   whole sequence instead of cutting the film short. */
-.loader { --loader-bg: #000; --dock: translate(-230px, 0) scale(0.5); animation-delay: calc(6300ms + var(--t0, 0ms)); }
+/* ---------- Loader, version 5: the film, then the name ----------
+   The clip is in the page HTML with its first frame embedded, so the
+   gladiator is on screen at once. As he finishes his turn and stops, the
+   film eases to one side and the name wipes in beside him. Then the screen
+   lifts. --t0 is set when the clip starts playing, so a slow connection
+   delays the sequence instead of cutting the film short. */
+.loader { --loader-bg: #000; --dock: translate(-260px, 0) scale(0.8); animation-delay: calc(5300ms + var(--t0, 0ms)); }
+.loader__film { animation: loader-dock 950ms calc(3250ms + var(--t0, 0ms)) cubic-bezier(0.65, 0, 0.2, 1) forwards; }
 .loader__video {
-  width: min(94vw, 860px); height: auto; display: block; opacity: 0; transform: scale(1.07);
+  width: min(94vw, 860px); height: auto; display: block;
   -webkit-mask-image: radial-gradient(ellipse at center, #000 52%, transparent 76%);
   mask-image: radial-gradient(ellipse at center, #000 52%, transparent 76%);
-  transition: opacity 700ms ease, transform 3600ms cubic-bezier(0.2, 0.6, 0.2, 1);
-  animation: loader-dock 950ms calc(4150ms + var(--t0, 0ms)) cubic-bezier(0.65, 0, 0.2, 1) forwards;
+  animation: loader-film-in 450ms ease both, loader-push 3400ms cubic-bezier(0.2, 0.6, 0.2, 1) both;
 }
-.loader__video.is-ready { opacity: 1; transform: none; }
+@keyframes loader-film-in { from { opacity: 0; } }
+@keyframes loader-push { from { scale: 1.07; } }
 @keyframes loader-dock { to { transform: var(--dock); } }
 
-.loader__lockup {
-  justify-self: start; margin-left: calc(50% - 34px); max-width: min(46vw, 400px); opacity: 0;
-  animation: loader-name 800ms calc(4650ms + var(--t0, 0ms)) cubic-bezier(0.16, 1, 0.3, 1) forwards;
+.loader__logo {
+  justify-self: start; margin-left: calc(50% + 40px); display: block; opacity: 1; white-space: nowrap;
+  font-size: clamp(1.75rem, 3.2vw, 2.75rem); line-height: 1.1;
+  clip-path: inset(-10% 100% -10% 0);
+  animation: loader-name 850ms calc(3650ms + var(--t0, 0ms)) cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
-.loader__logo { display: block; opacity: 1; animation: none; white-space: normal; line-height: 1; font-size: clamp(1.75rem, 3.4vw, 2.75rem); }
-.loader__tag { margin-top: 12px; font-size: clamp(0.875rem, 1.2vw, 1rem); line-height: 1.4; color: #9b9fa2; }
-@keyframes loader-name { from { opacity: 0; transform: translateX(-28px); filter: blur(6px); } to { opacity: 1; transform: none; filter: blur(0); } }
-
-/* On a phone the mark sits above the name instead of beside it. */
+@keyframes loader-name {
+  from { clip-path: inset(-10% 100% -10% 0); transform: translateX(40px); }
+  to { clip-path: inset(-10% -5% -10% 0); transform: none; }
+}
+@media (max-width: 1099px) {
+  .loader { --dock: translate(-190px, 0) scale(0.6); }
+  .loader__logo { margin-left: calc(50% + 24px); font-size: 2rem; }
+}
+/* On a phone the name comes in under him instead of beside him. */
 @media (max-width: 759px) {
-  .loader { --dock: translate(0, -84px) scale(0.72); }
-  .loader__lockup { justify-self: center; margin: 130px 0 0; max-width: 84vw; text-align: center; }
-  @keyframes loader-name { from { opacity: 0; transform: translateY(18px); filter: blur(6px); } to { opacity: 1; transform: none; filter: blur(0); } }
+  .loader { --dock: translate(0, -56px); }
+  .loader__logo { justify-self: center; margin: 150px 0 0; font-size: 1.875rem; }
+  @keyframes loader-name {
+    from { clip-path: inset(100% -5% -10% -5%); transform: translateY(24px); }
+    to { clip-path: inset(-10% -5% -10% -5%); transform: none; }
+  }
 }
 
 /* A hairline along the bottom fills as the sequence runs. */
 .loader::after {
   content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 2px; background: #e8e9e5;
-  transform-origin: left; animation: loader-bar 6100ms var(--t0, 0ms) cubic-bezier(0.4, 0, 0.2, 1) both;
+  transform-origin: left; animation: loader-bar 5100ms var(--t0, 0ms) cubic-bezier(0.4, 0, 0.2, 1) both;
 }
 @keyframes loader-bar { from { transform: scaleX(0); } to { transform: scaleX(1); } }
-html:not([data-loader="off"]) .scene__intro { animation-delay: calc(6500ms + var(--t0, 0ms)); }
+html:not([data-loader="off"]) .scene__intro { animation-delay: calc(5500ms + var(--t0, 0ms)); }
