@@ -1,8 +1,65 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useEffect, useRef, useState, type ReactNode } from "react";
 import { Bay } from "./Door";
+
+/**
+ * A horizontal row of cards with previous and next buttons beside its title.
+ * The row still swipes and scrolls by hand; the buttons move it one card at
+ * a time and switch off at either end.
+ */
+export function Rail({ title, label, children }: { title: ReactNode; label: string; children: ReactNode }) {
+  const list = useRef<HTMLUListElement>(null);
+  const [edge, setEdge] = useState({ start: true, end: false });
+
+  useEffect(() => {
+    const el = list.current;
+    if (!el) return;
+    const update = () =>
+      setEdge({ start: el.scrollLeft < 8, end: el.scrollLeft + el.clientWidth > el.scrollWidth - 8 });
+    update();
+    el.addEventListener("scroll", update, { passive: true });
+    window.addEventListener("resize", update);
+    return () => {
+      el.removeEventListener("scroll", update);
+      window.removeEventListener("resize", update);
+    };
+  }, []);
+
+  const move = (dir: 1 | -1) => {
+    const el = list.current;
+    if (!el) return;
+    const card = el.querySelector("li");
+    const step = card ? card.getBoundingClientRect().width + 12 : el.clientWidth * 0.8;
+    el.scrollBy({ left: dir * step * (window.innerWidth > 900 ? 2 : 1), behavior: "smooth" });
+  };
+
+  const arrow = (d: string) => (
+    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+      <path d={d} />
+    </svg>
+  );
+
+  return (
+    <>
+      <div className="wrap rail__head" data-reveal>
+        {title}
+        <div className="rail__nav">
+          <button type="button" className="rail__btn" aria-label={`Previous ${label}`} disabled={edge.start} onClick={() => move(-1)}>
+            {arrow("M19 12H5m6-6l-6 6 6 6")}
+          </button>
+          <button type="button" className="rail__btn" aria-label={`Next ${label}`} disabled={edge.end} onClick={() => move(1)}>
+            {arrow("M5 12h14m-6-6l6 6-6 6")}
+          </button>
+        </div>
+      </div>
+      <ul className="rail" ref={list}>
+        {children}
+      </ul>
+    </>
+  );
+}
 
 type Model = { slug: string; name: string; image: string; w: number; h: number; summary: string };
 

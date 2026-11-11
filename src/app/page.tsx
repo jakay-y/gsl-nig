@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { Bay } from "@/components/Door";
 import { DoorScene } from "@/components/DoorScene";
-import { Hotspots, ModelSwitcher } from "@/components/HomeBlocks";
+import { Hotspots, ModelSwitcher, Rail } from "@/components/HomeBlocks";
 import { categories, getProduct, products, site } from "@/lib/catalogue";
 
 // Entrance doors offered in the switcher, chosen for contrast of finish.
@@ -118,10 +118,10 @@ export default function Home() {
       </section>
 
       <section className="section" aria-labelledby="ranges" style={{ paddingTop: 0 }}>
-        <div className="wrap" data-reveal>
-          <h2 id="ranges" className="title">Eight ranges.<br /><span className="tone">One supplier, from survey to fitting.</span></h2>
-        </div>
-        <ul className="rail">
+        <Rail
+          label="ranges"
+          title={<h2 id="ranges" className="title">Eight ranges.<br /><span className="tone">One supplier, from survey to fitting.</span></h2>}
+        >
           {categories.map((c) => {
             const first = products.find((p) => p.category === c.slug && p.slug !== "the-gladiator-system");
             return (
@@ -135,7 +135,7 @@ export default function Home() {
               </li>
             );
           })}
-        </ul>
+        </Rail>
       </section>
 
       <section className="section feature" aria-labelledby="process">
