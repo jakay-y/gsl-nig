@@ -40,8 +40,8 @@ export default function Home() {
       <DoorScene>
         <h1 className="display">Doors built<br />to stay shut.</h1>
         <p className="lede">
-          Gladiator Systems supplies and installs steel security doors, fire-rated doors and smart locks from
-          its showroom in Abuja.
+          Steel security doors, fire doors and smart locks. Made to the size of your opening and fitted by
+          our own installers.
         </p>
         <div className="row">
           <Link href="/quote" className="btn btn--primary">Request a quote</Link>
